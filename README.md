@@ -326,7 +326,6 @@ We review and restructure the landscape of **Spatial Intelligence** through a un
 | [CLiViS: Unleashing Cognitive Map through Linguistic-Visual Synergy for Embodied Visual Reasoning](https://arxiv.org/abs/2506.17629) | 2025 | arXiv |
 | [Spatial Reasoning with Vision-Language Models in Ego-Centric Multi-View Scenes](https://arxiv.org/abs/2509.06266) | 2025 | arXiv |
 | [GPT4Scene: Understand 3D Scenes from Videos with Vision-Language Models](https://arxiv.org/abs/2501.01428) | 2025 | arXiv |
-| [MrSteve: Instruction-Following Agents in Minecraft with What-Where-When Memory](https://openreview.net/forum?id=CjXaMI2kUH) | 2025 | ICLR |
 | [See&Trek: Training-Free Spatial Prompting for Multimodal Large Language Model](https://arxiv.org/abs/2509.16087) | 2025 | NeurIPS |
 | [SpaceR: Reinforcing MLLMs in Video Spatial Reasoning](https://arxiv.org/abs/2504.01805) | 2025 | arXiv |
 | [Spatial Understanding from Videos: Structured Prompts Meet Simulation Data](https://openreview.net/forum?id=SBYCu5uJJf) | 2025 | NeurIPS |
@@ -347,18 +346,79 @@ We review and restructure the landscape of **Spatial Intelligence** through a un
 #### 4.2.1 Embodied Navigation
 | Title | Year | Venue |
 | --- | --- | --- |
+| [What You See is What You Reach: Towards Spatial Navigation with High-Level Human Instructions](https://openreview.net/pdf?id=ow65qpDY3Q) | 2026 | AAAI |
+| [CAUSALNAV: A Long-term Embodied Navigation System for Autonomous Mobile Robots in Dynamic Outdoor Scenarios](https://arxiv.org/abs/2601.01872) | 2026 | RAL |
 | [LOG-Nav: Efficient Layout-Aware Object-Goal Navigation with Hierarchical Planning](https://arxiv.org/abs/2505.06131) | 2026 | AAAI |
+| [PanoNav: Mapless Zero-Shot Object Navigation with Panoramic Scene Parsing and Dynamic Memory](https://arxiv.org/abs/2511.06840) | 2026 | AAAI |
+| [Stairway to Success: An Online Floor-Aware Zero-Shot Object-Goal Navigation Framework via LLM-Driven Coarse-to-Fine Exploration](https://arxiv.org/abs/2505.23019) | 2026 | RAL |
+| [FSR-VLN: Fast and Slow Reasoning for Vision-Language Navigation with Hierarchical Multi-modal Scene Graph](https://arxiv.org/abs/2509.13733) | 2025 | arXiv |
+| [GeoNav: Empowering MLLMs with Explicit Geospatial Reasoning Abilities for Language-Goal Aerial Navigation](https://arxiv.org/abs/2504.09587) | 2025 | arXiv |
+| [GraphEQA: Using 3D Semantic Scene Graphs for Real-time Embodied Question Answering](https://arxiv.org/abs/2412.14480) | 2025 | CoRL |
+| [OmniNav: A Unified Framework for Prospective Exploration and Visual-Language Navigation](https://arxiv.org/abs/2509.25687) | 2025 | arXiv |
+| [Human-like Navigation in a World Built for Humans](https://arxiv.org/abs/2509.21189) | 2025 | CoRL |
+| [3D-Mem: 3D Scene Memory for Embodied Exploration and Reasoning](https://arxiv.org/abs/2411.17735) | 2025 | CVPR |
+| [Dynam3D: Dynamic Layered 3D Tokens Empower VLM for Vision-and-Language Navigation](https://arxiv.org/abs/2505.11383) | 2025 | NeurIPS |
 | [EfficientNav: Towards On-Device Object-Goal Navigation with Navigation Map Caching and Retrieval](https://arxiv.org/abs/2510.18546) | 2025 | NeurIPS |
 | [TP-MDDN: Task-Preferenced Multi-Demand-Driven Navigation with Autonomous Decision-Making](https://arxiv.org/abs/2511.17225) | 2025 | NeurIPS |
 | [Embodied VSR: Dynamic Scene Graph-Guided Chain-of-Thought Reasoning for Visual Spatial Tasks](https://arxiv.org/abs/2503.11089) | 2025 | arXiv |
 | [CogNav: Cognitive Process Modeling for Object Goal Navigation with LLMs](https://arxiv.org/abs/2412.10439) | 2025 | ICCV |
 | [Scene Map-based Prompt Tuning for Navigation Instruction Generation](https://openaccess.thecvf.com/content/CVPR2025/papers/Fan_Scene_Map-based_Prompt_Tuning_for_Navigation_Instruction_Generation_CVPR_2025_paper.pdf) | 2025 | CVPR |
+| [BeliefMapNav: 3D Voxel-Based Belief Map for Zero-Shot Object Navigation](https://arxiv.org/abs/2506.06487) | 2025 | NeurIPS |
+| [From reactive to cognitive: brain-inspired spatial intelligence for embodied agents](https://arxiv.org/abs/2508.17198) | 2025 | arXiv |
+| [GC-VLN: Instruction as Graph Constraints for Training-free Vision-and-Language Navigation](https://arxiv.org/abs/2509.10454) | 2025 | CoRL |
+| [MG-Nav: Dual-Scale Visual Navigation via Sparse Spatial Memory](https://arxiv.org/abs/2511.22609) | 2025 | arXiv |
+| [3DLLM-Mem: Long-Term Spatial-Temporal Memory for Embodied 3D Large Language Model](https://arxiv.org/abs/2505.22657) | 2025 | arXiv |
+| [Embodied VideoAgent: Persistent Memory from Egocentric Videos and Embodied Sensors Enables Dynamic Scene Understanding](https://arxiv.org/abs/2501.00358) | 2025 | ICCV |
+| [LagMemo: Language 3D Gaussian Splatting Memory for Multi-modal Open-vocabulary Multi-goal Visual Navigation](https://arxiv.org/abs/2510.24118) | 2025 | arXiv |
+| [Meta-Memory: Retrieving and Integrating Semantic-Spatial Memories for Robot Spatial Reasoning](https://arxiv.org/abs/2509.20754) | 2025 | arXiv |
+| [MrSteve: Instruction-Following Agents in Minecraft with What-Where-When Memory](https://arxiv.org/abs/2411.06736) | 2025 | ICLR |
+| [ReMEmbR: Building and Reasoning Over Long-Horizon Spatio-Temporal Memory for Robot Navigation](https://arxiv.org/abs/2409.13682) | 2025 | ICRA |
+| [RoboMemory: A Brain-inspired Multi-memory Agentic Framework for Interactive Environmental Learning in Physical Embodied Systems](https://arxiv.org/abs/2508.01415) | 2025 | arXiv |
+| [Hierarchical Semantic-Augmented Navigation: Optimal Transport and Graph-Driven Reasoning for Vision-Language Navigation](https://neurips.cc/virtual/2025/poster/115108) | 2025 | NeurIPS |
+| [Visuomotor Navigation for Embodied Robots With Spatial Memory and Semantic Reasoning Cognition](https://ieeexplore.ieee.org/document/10682097) | 2025 | TNNLS |
+| [ObjectReact: Learning Object-Relative Control for Visual Navigation](https://arxiv.org/abs/2509.09594) | 2025 | CoRL |
+| [VPN: Visual Prompt Navigation](https://arxiv.org/abs/2508.01766) | 2026 | AAAI |
+| [History-Enhanced Two-Stage Transformer for Aerial Vision-and-Language Navigation](https://arxiv.org/abs/2512.14222) | 2026 | AAAI |
+| [SeqWalker: Sequential-Horizon Vision-and-Language Navigation with Hierarchical Planning](https://arxiv.org/abs/2601.04699) | 2026 | AAAI |
+| [Agent Journey Beyond RGB: Hierarchical Semantic-Spatial Representation Enrichment for Vision-and-Language Navigation](https://arxiv.org/abs/2412.06465) | 2026 | AAAI |
+| [MapNav: A Novel Memory Representation via Annotated Semantic Maps for Vision-and-Language Navigation](https://aclanthology.org/2025.acl-long.638/) | 2025 | ACL |
+| [Mem4Nav: Boosting Vision-and-Language Navigation in Urban Environments with a Hierarchical Spatial-Cognition Long-Short Memory System](https://arxiv.org/abs/2506.19433) | 2025 | arXiv |
+| [Learning Bird’s Eye View scene graph and knowledge-inspired policy for embodied visual navigation](https://www.sciencedirect.com/science/article/abs/pii/S0950705125010044) | 2025 | KBS |
+| [Move to Understand a 3D Scene: Bridging Visual Grounding and Exploration for Efficient and Versatile Embodied Navigation](https://arxiv.org/abs/2507.04047) | 2025 | ICCV |
+| [OVL-MAP: An Online Visual Language Map Approach for Vision-and-Language Navigation in Continuous Environments](https://doi.org/10.1109/LRA.2025.3540577) | 2025 | RAL |
+| [MemoNav: Working Memory Model for Visual Navigation](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_MemoNav_Working_Memory_Model_for_Visual_Navigation_CVPR_2024_paper.pdf) | 2024 | CVPR |
+| [Embodied Contrastive Learning with Geometric Consistency and Behavioral Awareness for Object Navigation](https://dl.acm.org/doi/10.1145/3664647.3681248) | 2024 | MM |
+| [Explore until Confident: Efficient Exploration for Embodied Question Answering](https://arxiv.org/abs/2403.15941) | 2024 | arXiv |
+| [TopoNav: Topological Navigation for Efficient Exploration in Sparse Reward Environments](https://ieeexplore.ieee.org/document/10802380) | 2024 | IROS |
 | [Cog-GA: A Large Language Models-based Generative Agent for Vision-Language Navigation in Continuous Environments](https://arxiv.org/abs/2409.02522) | 2024 | arXiv |
 | [Embodied-RAG: General Non-parametric Embodied Memory for Retrieval and Generation](https://arxiv.org/abs/2409.18313) | 2024 | arXiv |
 | [MapGPT: Map-Guided Prompting with Adaptive Path Planning for Vision-and-Language Navigation](https://aclanthology.org/2024.acl-long.529/) | 2024 | ACL |
+| [Visual Language Maps for Robot Navigation](https://arxiv.org/abs/2210.05714) | 2023 | ICRA |
+| [Context-Aware Planning and Environment-Aware Memory for Instruction Following Embodied Agents](https://openaccess.thecvf.com/content/ICCV2023/html/Kim_Context-Aware_Planning_and_Environment-Aware_Memory_for_Instruction_Following_Embodied_Agents_ICCV_2023_paper.html) | 2023 | ICCV |
+| [BEVBert: Multimodal Map Pre-training for Language-guided Navigation](https://arxiv.org/abs/2212.04385) | 2023 | ICCV |
+| [Bird’s-Eye-View Scene Graph for Vision-Language Navigation](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_Birds-Eye-View_Scene_Graph_for_Vision-Language_Navigation_ICCV_2023_paper.pdf) | 2023 | ICCV |
+| [Learning Navigational Visual Representations with Semantic Map Supervision](https://openaccess.thecvf.com/content/ICCV2023/papers/Hong_Learning_Navigational_Visual_Representations_with_Semantic_Map_Supervision_ICCV_2023_paper.pdf) | 2023 | ICCV |
+| [GridMM: Grid Memory Map for Vision-and-Language Navigation](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_GridMM_Grid_Memory_Map_for_Vision-and-Language_Navigation_ICCV_2023_paper.pdf) | 2023 | ICCV |
+| [Scene Graph Contrastive Learning for Embodied Navigation](https://openaccess.thecvf.com/content/ICCV2023/html/Singh_Scene_Graph_Contrastive_Learning_for_Embodied_Navigation_ICCV_2023_paper.html) | 2023 | ICCV |
+| [Topological Semantic Graph Memory for Image-Goal Navigation](https://proceedings.mlr.press/v205/kim23a.html) | 2023 | CoRL |
+| [Cross-modal Map Learning for Vision and Language Navigation](https://openaccess.thecvf.com/content/CVPR2022/papers/Georgakis_Cross-Modal_Map_Learning_for_Vision_and_Language_Navigation_CVPR_2022_paper.pdf) | 2022 | CVPR |
+| [Weakly-Supervised Multi-Granularity Map Learning for Vision-and-Language Navigation](https://papers.nips.cc/paper_files/paper/2022/hash/f959b05dd74ba8a735276c3df4ae8b71-Abstract-Conference.html) | 2022 | NeurIPS |
+| [Visual Graph Memory with Unsupervised Representation for Visual Navigation](https://openaccess.thecvf.com/content/ICCV2021/html/Kwon_Visual_Graph_Memory_With_Unsupervised_Representation_for_Visual_Navigation_ICCV_2021_paper.html) | 2021 | ICCV |
+| [No RL, No Simulation: Learning to Navigate without Navigating](https://openreview.net/forum?id=8vXYx6d8Wc) | 2021 | NeurIPS |
+| [Cognitive Mapping and Planning for Visual Navigation](https://openaccess.thecvf.com/content_cvpr_2017/papers/Gupta_Cognitive_Mapping_and_CVPR_2017_paper.pdf) | 2017 | CVPR |
 
 #### 4.2.2 Embodied Manipulation
 | Title | Year | Venue |
 | --- | --- | --- |
+| [Scene Graph-Guided Proactive Replanning for Failure-Resilient Embodied Agents](https://arxiv.org/abs/2508.11286) | 2026 | AAMAS |
+| [Hi-Dyna Graph: Hierarchical Dynamic Scene Graph for Robotic Autonomy in Human-Centric Environments](https://arxiv.org/abs/2506.00083) | 2025 | arXiv |
+| [KARMA: Augmenting Embodied AI Agents with Long-and-short Term Memory Systems](https://ieeexplore.ieee.org/document/11128047) | 2025 | ICRA |
+| [RoboOS-NeXT: A Unified Memory-based Framework for Lifelong, Scalable, and Robust Multi-Robot Collaboration](https://arxiv.org/abs/2510.26536) | 2025 | arXiv |
+| [RoboOS: A Hierarchical Embodied Framework for Cross-Embodiment and Multi-Agent Collaboration](https://arxiv.org/abs/2505.03673) | 2025 | arXiv |
+| [BrainyMP: Enhancing Motion Planning Using Graph Neural Network Inspired by Brain Spatial Relational Memory](https://ieeexplore.ieee.org/document/10919140/) | 2025 | TITS |
+| [SG-Bot: Object Rearrangement via Coarse-to-Fine Robotic Imagination on Scene Graphs](https://arxiv.org/abs/2309.12188) | 2024 | ICRA |
+| [Scene-Driven Multimodal Knowledge Graph Construction for Embodied AI](https://ieeexplore.ieee.org/document/10531671/) | 2024 | TKDE |
+| [Open-vocabulary Queryable Scene Representations for Real World Planning](https://arxiv.org/abs/2209.09874) | 2023 | ICRA |
+| [SayPlan: Grounding Large Language Models using 3D Scene Graphs for Scalable Robot Task Planning](https://arxiv.org/abs/2307.06135) | 2023 | CoRL |
 
 ---
