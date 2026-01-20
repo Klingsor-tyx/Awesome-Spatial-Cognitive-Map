@@ -174,14 +174,33 @@ We review and restructure the landscape of **Spatial Intelligence** through a un
 | [Mind's Eye of LLMs: Visualization-of-Thought Elicits Spatial Reasoning in Large Language Models](https://proceedings.neurips.cc/paper_files/paper/2024/hash/a45296e83b19f656392e0130d9e53cb1-Abstract-Conference.html) | 2024 | NeurIPS |
 
 #### 2.1.3 Multimodal Prompting
-| Title | Year | Venue | Paper Link |
-| :--- | :---: | :---: | :---: |
+| Title | Year | Venue |
+| --- | --- | --- |
+| [Stairway to Success: An Online Floor-Aware Zero-Shot Object-Goal Navigation Framework via LLM-Driven Coarse-to-Fine Exploration](https://arxiv.org/abs/2505.23019) | 2026 | RAL |
+| [Perspective-Aware Reasoning in Vision-Language Models via Mental Imagery Simulation](https://openaccess.thecvf.com/content/ICCV2025/papers/Lee_Perspective-Aware_Reasoning_in_Vision-Language_Models_via_Mental_Imagery_Simulation_ICCV_2025_paper.pdf) | 2025 | ICCV |
+| [FSR-VLN: Fast and Slow Reasoning for Vision-Language Navigation with Hierarchical Multi-modal Scene Graph](https://arxiv.org/abs/2509.13733) | 2025 | arXiv |
+| [GeoNav: Empowering MLLMs with Explicit Geospatial Reasoning Abilities for Language-Goal Aerial Navigation](https://arxiv.org/abs/2504.09587) | 2025 | arXiv |
+| [GraphEQA: Using 3D Semantic Scene Graphs for Real-time Embodied Question Answering](https://arxiv.org/abs/2412.14480) | 2025 | CoRL |
+| [OmniNav: A Unified Framework for Prospective Exploration and Visual-Language Navigation](https://arxiv.org/abs/2509.25687) | 2025 | arXiv |
+| [Human-like Navigation in a World Built for Humans](https://arxiv.org/abs/2509.21189) | 2025 | CoRL |
+| [See&Trek: Training-Free Spatial Prompting for Multimodal Large Language Model](https://arxiv.org/abs/2509.16087) | 2025 | NeurIPS |
+| [Spatial Understanding from Videos: Structured Prompts Meet Simulation Data](https://openreview.net/forum?id=SBYCu5uJJf) | 2025 | NeurIPS |
+| [Struct2D: A Perception-Guided Framework for Spatial Reasoning in Large Multimodal Models](https://arxiv.org/abs/2506.04220) | 2025 | NeurIPS |
 
 ### 2.2 Map as API
 
 #### 2.2.1 Real-time State Snapshot
-| Title | Year | Venue | Paper Link |
-| :--- | :---: | :---: | :---: |
+| Title | Year | Venue |
+| --- | --- | --- |
+| [What You See is What You Reach: Towards Spatial Navigation with High-Level Human Instructions](https://openreview.net/pdf?id=ow65qpDY3Q) | 2026 | AAAI |
+| [CAUSALNAV: A Long-term Embodied Navigation System for Autonomous Mobile Robots in Dynamic Outdoor Scenarios](https://arxiv.org/abs/2601.01872) | 2026 | RAL |
+| [BeliefMapNav: 3D Voxel-Based Belief Map for Zero-Shot Object Navigation](https://arxiv.org/abs/2506.06487) | 2025 | NeurIPS |
+| [From reactive to cognitive: brain-inspired spatial intelligence for embodied agents](https://arxiv.org/abs/2508.17198) | 2025 | arXiv |
+| [GC-VLN: Instruction as Graph Constraints for Training-free Vision-and-Language Navigation](https://arxiv.org/abs/2509.10454) | 2025 | CoRL |
+| [MG-Nav: Dual-Scale Visual Navigation via Sparse Spatial Memory](https://arxiv.org/abs/2511.22609) | 2025 | arXiv |
+| [Explore until Confident: Efficient Exploration for Embodied Question Answering](https://arxiv.org/abs/2403.15941) | 2024 | arXiv |
+| [TopoNav: Topological Navigation for Efficient Exploration in Sparse Reward Environments](https://ieeexplore.ieee.org/document/10802380) | 2024 | IROS |
+| [Visual Language Maps for Robot Navigation](https://arxiv.org/abs/2210.05714) | 2023 | ICRA |
 
 #### 2.2.2 Persistent Spatial Memory
 | Title | Year | Venue | Paper Link |
