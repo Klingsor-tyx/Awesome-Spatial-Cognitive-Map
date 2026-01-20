@@ -322,6 +322,17 @@ We review and restructure the landscape of **Spatial Intelligence** through a un
 #### 4.1.1 3D Question Answering
 | Title | Year | Venue |
 | --- | --- | --- |
+| [Perspective-Aware Reasoning in Vision-Language Models via Mental Imagery Simulation](https://openaccess.thecvf.com/content/ICCV2025/papers/Lee_Perspective-Aware_Reasoning_in_Vision-Language_Models_via_Mental_Imagery_Simulation_ICCV_2025_paper.pdf) | 2025 | ICCV |
+| [CLiViS: Unleashing Cognitive Map through Linguistic-Visual Synergy for Embodied Visual Reasoning](https://arxiv.org/abs/2506.17629) | 2025 | arXiv |
+| [Spatial Reasoning with Vision-Language Models in Ego-Centric Multi-View Scenes](https://arxiv.org/abs/2509.06266) | 2025 | arXiv |
+| [GPT4Scene: Understand 3D Scenes from Videos with Vision-Language Models](https://arxiv.org/abs/2501.01428) | 2025 | arXiv |
+| [MrSteve: Instruction-Following Agents in Minecraft with What-Where-When Memory](https://openreview.net/forum?id=CjXaMI2kUH) | 2025 | ICLR |
+| [See&Trek: Training-Free Spatial Prompting for Multimodal Large Language Model](https://arxiv.org/abs/2509.16087) | 2025 | NeurIPS |
+| [SpaceR: Reinforcing MLLMs in Video Spatial Reasoning](https://arxiv.org/abs/2504.01805) | 2025 | arXiv |
+| [Spatial Understanding from Videos: Structured Prompts Meet Simulation Data](https://openreview.net/forum?id=SBYCu5uJJf) | 2025 | NeurIPS |
+| [Struct2D: A Perception-Guided Framework for Spatial Reasoning in Large Multimodal Models](https://arxiv.org/abs/2506.04220) | 2025 | NeurIPS |
+| [Mind's Eye of LLMs: Visualization-of-Thought Elicits Spatial Reasoning in Large Language Models](https://proceedings.neurips.cc/paper_files/paper/2024/hash/a45296e83b19f656392e0130d9e53cb1-Abstract-Conference.html) | 2024 | NeurIPS |
+| [3D Question Answering for City Scene Understanding](https://arxiv.org/abs/2407.17398) | 2024 | MM |
 
 #### 4.1.2 Indoor Layout Design*
 | Title | Year | Venue |
@@ -336,6 +347,15 @@ We review and restructure the landscape of **Spatial Intelligence** through a un
 #### 4.2.1 Embodied Navigation
 | Title | Year | Venue |
 | --- | --- | --- |
+| [LOG-Nav: Efficient Layout-Aware Object-Goal Navigation with Hierarchical Planning](https://arxiv.org/abs/2505.06131) | 2026 | AAAI |
+| [EfficientNav: Towards On-Device Object-Goal Navigation with Navigation Map Caching and Retrieval](https://arxiv.org/abs/2510.18546) | 2025 | NeurIPS |
+| [TP-MDDN: Task-Preferenced Multi-Demand-Driven Navigation with Autonomous Decision-Making](https://arxiv.org/abs/2511.17225) | 2025 | NeurIPS |
+| [Embodied VSR: Dynamic Scene Graph-Guided Chain-of-Thought Reasoning for Visual Spatial Tasks](https://arxiv.org/abs/2503.11089) | 2025 | arXiv |
+| [CogNav: Cognitive Process Modeling for Object Goal Navigation with LLMs](https://arxiv.org/abs/2412.10439) | 2025 | ICCV |
+| [Scene Map-based Prompt Tuning for Navigation Instruction Generation](https://openaccess.thecvf.com/content/CVPR2025/papers/Fan_Scene_Map-based_Prompt_Tuning_for_Navigation_Instruction_Generation_CVPR_2025_paper.pdf) | 2025 | CVPR |
+| [Cog-GA: A Large Language Models-based Generative Agent for Vision-Language Navigation in Continuous Environments](https://arxiv.org/abs/2409.02522) | 2024 | arXiv |
+| [Embodied-RAG: General Non-parametric Embodied Memory for Retrieval and Generation](https://arxiv.org/abs/2409.18313) | 2024 | arXiv |
+| [MapGPT: Map-Guided Prompting with Adaptive Path Planning for Vision-and-Language Navigation](https://aclanthology.org/2024.acl-long.529/) | 2024 | ACL |
 
 #### 4.2.2 Embodied Manipulation
 | Title | Year | Venue |
