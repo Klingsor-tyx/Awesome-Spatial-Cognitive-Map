@@ -234,16 +234,27 @@ We review and restructure the landscape of **Spatial Intelligence** through a un
 #### 2.3.2 Latent Feature Matching
 | Title | Year | Venue |
 | --- | --- | --- |
+| [VPN: Visual Prompt Navigation](https://arxiv.org/abs/2508.01766) | 2026 | AAAI |
 | [History-Enhanced Two-Stage Transformer for Aerial Vision-and-Language Navigation](https://arxiv.org/abs/2512.14222) | 2026 | AAAI |
+| [SeqWalker: Sequential-Horizon Vision-and-Language Navigation with Hierarchical Planning](https://arxiv.org/abs/2601.04699) | 2026 | AAAI |
+| [Agent Journey Beyond RGB: Hierarchical Semantic-Spatial Representation Enrichment for Vision-and-Language Navigation](https://arxiv.org/abs/2412.06465) | 2026 | AAAI |
 | [MapNav: A Novel Memory Representation via Annotated Semantic Maps for Vision-and-Language Navigation](https://aclanthology.org/2025.acl-long.638/) | 2025 | ACL |
 | [Mem4Nav: Boosting Vision-and-Language Navigation in Urban Environments with a Hierarchical Spatial-Cognition Long-Short Memory System](https://arxiv.org/abs/2506.19433) | 2025 | arXiv |
 | [Learning Bird’s Eye View scene graph and knowledge-inspired policy for embodied visual navigation](https://www.sciencedirect.com/science/article/abs/pii/S0950705125010044) | 2025 | KBS |
+| [Move to Understand a 3D Scene: Bridging Visual Grounding and Exploration for Efficient and Versatile Embodied Navigation](https://arxiv.org/abs/2507.04047) | 2025 | ICCV |
+| [OVL-MAP: An Online Visual Language Map Approach for Vision-and-Language Navigation in Continuous Environments](https://doi.org/10.1109/LRA.2025.3540577) | 2025 | RAL |
+| [Scene-Driven Multimodal Knowledge Graph Construction for Embodied AI](https://ieeexplore.ieee.org/document/10531671/) | 2024 | TKDE |
+| [3D Question Answering for City Scene Understanding](https://arxiv.org/abs/2407.17398) | 2024 | MM |
 | [MemoNav: Working Memory Model for Visual Navigation](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_MemoNav_Working_Memory_Model_for_Visual_Navigation_CVPR_2024_paper.pdf) | 2024 | CVPR |
 | [BEVBert: Multimodal Map Pre-training for Language-guided Navigation](https://arxiv.org/abs/2212.04385) | 2023 | ICCV |
 | [Bird’s-Eye-View Scene Graph for Vision-Language Navigation](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_Birds-Eye-View_Scene_Graph_for_Vision-Language_Navigation_ICCV_2023_paper.pdf) | 2023 | ICCV |
 | [Learning Navigational Visual Representations with Semantic Map Supervision](https://openaccess.thecvf.com/content/ICCV2023/papers/Hong_Learning_Navigational_Visual_Representations_with_Semantic_Map_Supervision_ICCV_2023_paper.pdf) | 2023 | ICCV |
 | [GridMM: Grid Memory Map for Vision-and-Language Navigation](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_GridMM_Grid_Memory_Map_for_Vision-and-Language_Navigation_ICCV_2023_paper.pdf) | 2023 | ICCV |
+| [Scene Graph Contrastive Learning for Embodied Navigation](https://openaccess.thecvf.com/content/ICCV2023/html/Singh_Scene_Graph_Contrastive_Learning_for_Embodied_Navigation_ICCV_2023_paper.html) | 2023 | ICCV |
+| [Topological Semantic Graph Memory for Image-Goal Navigation](https://proceedings.mlr.press/v205/kim23a.html) | 2023 | CoRL |
 | [Cross-modal Map Learning for Vision and Language Navigation](https://openaccess.thecvf.com/content/CVPR2022/papers/Georgakis_Cross-Modal_Map_Learning_for_Vision_and_Language_Navigation_CVPR_2022_paper.pdf) | 2022 | CVPR |
+| [Weakly-Supervised Multi-Granularity Map Learning for Vision-and-Language Navigation](https://papers.nips.cc/paper_files/paper/2022/hash/f959b05dd74ba8a735276c3df4ae8b71-Abstract-Conference.html) | 2022 | NeurIPS |
+| [Visual Graph Memory with Unsupervised Representation for Visual Navigation](https://openaccess.thecvf.com/content/ICCV2021/html/Kwon_Visual_Graph_Memory_With_Unsupervised_Representation_for_Visual_Navigation_ICCV_2021_paper.html) | 2021 | ICCV |
 
 ---
 
@@ -252,8 +263,20 @@ We review and restructure the landscape of **Spatial Intelligence** through a un
 ### 3.1 Static Scene Synthesis
 
 #### 3.1.1 Map-based Retrieval
-| Title | Year | Venue | Paper Link |
-| :--- | :---: | :---: | :---: |
+| Title | Year | Venue |
+| --- | --- | --- |
+| [LayoutVLM: Differentiable Optimization of 3D Layout via Vision-Language Models](https://arxiv.org/abs/2412.02193) | 2025 | CVPR |
+| [Agentic 3D Scene Generation with Spatially Contextualized VLMs](https://arxiv.org/abs/2505.20129) | 2025 | arXiv |
+| [FOREST2SEQ: Revitalizing Order Prior for Sequential Indoor Scene Synthesis](https://arxiv.org/abs/2407.05388) | 2024 | ECCV |
+| [HOLODECK: Language Guided Generation of 3D Embodied AI Environments](https://arxiv.org/abs/2312.09067) | 2024 | CVPR |
+| [INSTRUCTSCENE: Instruction-Driven 3D Indoor Scene Synthesis with Semantic Graph Prior](https://arxiv.org/abs/2402.04717) | 2024 | ICLR |
+| [End-to-End Optimization of Scene Layout](https://openaccess.thecvf.com/content_CVPR_2020/html/Luo_End-to-End_Optimization_of_Scene_Layout_CVPR_2020_paper.html) | 2020 | CVPR |
+| [GRAINS: Generative Recursive Autoencoders for INdoor Scenes](https://arxiv.org/abs/1807.09193) | 2019 | TOG |
+| [Meta-Sim2: Unsupervised Learning of Scene Structure for Synthetic Data Generation](https://arxiv.org/abs/2008.09092) | 2020 | ECCV |
+| [Meta-Sim: Learning to Generate Synthetic Datasets](https://openaccess.thecvf.com/content_ICCV_2019/html/Kar_Meta-Sim_Learning_to_Generate_Synthetic_Datasets_ICCV_2019_paper.html) | 2019 | ICCV |
+| [PlanIT: Planning and Instantiating Indoor Scenes with Relation Graph and Spatial Prior Networks](https://kwang-ether.github.io/pdf/planit.pdf) | 2019 | TOG |
+| [Adaptive Synthesis of Indoor Scenes via Activity-Associated Object Relation Graphs](https://hongbofu.people.ust.hk/doc/Adaptive_Synthesis_Indoor_Scenes_SA17.pdf) | 2017 | TOG |
+| [Language-Driven Synthesis of 3D Scenes from Scene Databases](https://dl.acm.org/doi/10.1145/3272127.3275035) | 2018 | TOG |
 
 #### 3.1.2 Map-to-Scene Generation
 | Title | Year | Venue | Paper Link |
