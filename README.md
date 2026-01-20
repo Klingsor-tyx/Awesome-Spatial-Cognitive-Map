@@ -63,8 +63,7 @@ We review and restructure the landscape of **Spatial Intelligence** through a un
 | [Topological Semantic Graph Memory for Image-Goal Navigation](https://proceedings.mlr.press/v205/kim23a.html) | 2023 | CoRL |
 | [Modeling Dynamic Environments with Scene Graph Memory](https://proceedings.mlr.press/v202/kurenkov23a.html) | 2023 | ICML |
 | [Scene Graph Contrastive Learning for Embodied Navigation](https://openaccess.thecvf.com/content/ICCV2023/html/Singh_Scene_Graph_Contrastive_Learning_for_Embodied_Navigation_ICCV_2023_paper.html) | 2023 | ICCV |
-| [Visual Graph Memory with Unsupervised Representation for Visual Navigation]
-(https://openaccess.thecvf.com/content/ICCV2021/html/Kwon_Visual_Graph_Memory_With_Unsupervised_Representation_for_Visual_Navigation_ICCV_2021_paper.html) | 2021 | ICCV |
+| [Visual Graph Memory with Unsupervised Representation for Visual Navigation](https://openaccess.thecvf.com/content/ICCV2021/html/Kwon_Visual_Graph_Memory_With_Unsupervised_Representation_for_Visual_Navigation_ICCV_2021_paper.html) | 2021 | ICCV |
 | [Graph-to-3D: End-to-End Generation and Manipulation of 3D Scenes Using Scene Graphs](https://openaccess.thecvf.com/content/ICCV2021/papers/Dhamo_Graph-to-3D_End-to-End_Generation_and_Manipulation_of_3D_Scenes_Using_Scene_ICCV_2021_paper.pdf) | 2021 | ICCV |
 | [End-to-End Optimization of Scene Layout](https://openaccess.thecvf.com/content_CVPR_2020/html/Luo_End-to-End_Optimization_of_Scene_Layout_CVPR_2020_paper.html) | 2020 | CVPR |
 | [PlanIT: Planning and Instantiating Indoor Scenes with Relation Graph and Spatial Prior Networks](https://kwang-ether.github.io/pdf/planit.pdf) | 2019 | TOG |
