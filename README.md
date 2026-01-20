@@ -70,8 +70,23 @@ We review and restructure the landscape of **Spatial Intelligence** through a un
 | [Adaptive Synthesis of Indoor Scenes via Activity-Associated Object Relation Graphs](https://hongbofu.people.ust.hk/doc/Adaptive_Synthesis_Indoor_Scenes_SA17.pdf) | 2017 | TOG |
 
 #### 1.2.2 Serialized Graph-based
-| Title | Year | Venue | Paper Link |
-| :--- | :---: | :---: | :---: |
+| Title | Year | Venue |
+| --- | --- | --- |
+| [PanoNav: Mapless Zero-Shot Object Navigation with Panoramic Scene Parsing and Dynamic Memory](https://arxiv.org/abs/2511.06840) | 2026 | AAAI |
+| [Scene Graph-Guided Proactive Replanning for Failure-Resilient Embodied Agents](https://arxiv.org/abs/2508.11286) | 2026 | AAMAS |
+| [RoboMemory: A Brain-inspired Multi-memory Agentic Framework for Interactive Environmental Learning in Physical Embodied Systems](https://arxiv.org/abs/2508.01415) | 2025 | arXiv |
+| [Hi-Dyna Graph: Hierarchical Dynamic Scene Graph for Robotic Autonomy in Human-Centric Environments](https://arxiv.org/abs/2506.00083) | 2025 | arXiv |
+| [EmbodiedVSR: Dynamic Scene Graph-Guided Chain-of-Thought Reasoning for Visual Spatial Tasks](https://arxiv.org/abs/2503.11089) | 2025 | arXiv |
+| [KARMA: Augmenting Embodied AI Agents with Long-and-short Term Memory Systems](https://ieeexplore.ieee.org/document/11128047) | 2025 | ICRA |
+| [LayoutAgent: A Vision-Language Agent Guided Compositional Diffusion for Spatial Layout Planning](https://arxiv.org/abs/2509.22720) | 2025 | arXiv |
+| [Open Scene Graphs for Open-World Object-Goal Navigation](https://arxiv.org/abs/2508.04678) | 2024 | IJRR |
+| [GraphDreamer: Compositional 3D Scene Synthesis from Scene Graphs](https://arxiv.org/pdf/2312.00093) | 2024 | CVPR |
+| [HOLODECK: Language Guided Generation of 3D Embodied AI Environments](https://arxiv.org/abs/2312.09067) | 2024 | CVPR |
+| [MapGPT: Map-Guided Prompting with Adaptive Path Planning for Vision-and-Language Navigation](https://aclanthology.org/2024.acl-long.529/) | 2024 | ACL |
+| [SayPlan: Grounding Large Language Models using 3D Scene Graphs for Scalable Robot Task Planning](https://arxiv.org/abs/2307.06135) | 2023 | CoRL |
+| [SSGVS: Semantic Scene Graph-to-Video Synthesis](https://openaccess.thecvf.com/content/CVPR2023W/MULA/html/Cong_SSGVS_Semantic_Scene_Graph-to-Video_Synthesis_CVPRW_2023_paper.html) | 2023 | CVPR |
+| [Meta-Sim2: Unsupervised Learning of Scene Structure for Synthetic Data Generation](https://arxiv.org/abs/2008.09092) | 2020 | ECCV |
+| [Meta-Sim: Learning to Generate Synthetic Datasets](https://arxiv.org/abs/1904.11621) | 2019 | ICCV |
 
 ### 1.3 Hybrid Representation
 
