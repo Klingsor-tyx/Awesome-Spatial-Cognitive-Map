@@ -91,8 +91,36 @@ We review and restructure the landscape of **Spatial Intelligence** through a un
 ### 1.3 Hybrid Representation
 
 #### 1.3.1 Hierarchical Architecture
-| Title | Year | Venue | Paper Link |
-| :--- | :---: | :---: | :---: |
+| Title | Year | Venue |
+| --- | --- | --- |
+| [SeqWalker: Sequential-Horizon Vision-and-Language Navigation with Hierarchical Planning](https://arxiv.org/abs/2601.04699) | 2026 | AAAI |
+| [Stairway to Success: An Online Floor-Aware Zero-Shot Object-Goal Navigation Framework via LLM-Driven Coarse-to-Fine Exploration](https://arxiv.org/abs/2505.23019) | 2026 | RAL |
+| [CAUSALNAV: A Long-term Embodied Navigation System for Autonomous Mobile Robots in Dynamic Outdoor Scenarios](https://arxiv.org/abs/2601.01872) | 2026 | RAL |
+| [LOG-Nav: Efficient Layout-Aware Object-Goal Navigation with Hierarchical Planning](https://arxiv.org/abs/2505.06131) | 2026 | AAAI |
+| [CogNav: Cognitive Process Modeling for Object Goal Navigation with LLMs](https://arxiv.org/abs/2412.10439) | 2025 | ICCV |
+| [FSR-VLN: Fast and Slow Reasoning for Vision-Language Navigation with Hierarchical Multi-modal Scene Graph](https://arxiv.org/abs/2509.13733) | 2025 | arXiv |
+| [Agentic 3D Scene Generation with Spatially Contextualized VLMs](https://arxiv.org/abs/2505.20129) | 2025 | arXiv |
+| [From reactive to cognitive: brain-inspired spatial intelligence for embodied agents](https://arxiv.org/abs/2508.17198) | 2025 | arXiv |
+| [CLiViS: Unleashing Cognitive Map through Linguistic-Visual Synergy for Embodied Visual Reasoning](https://arxiv.org/abs/2506.17629) | 2025 | arXiv |
+| [OmniNav: A Unified Framework for Prospective Exploration and Visual-Language Navigation](https://arxiv.org/abs/2509.25687) | 2025 | arXiv |
+| [GeoNav: Empowering MLLMs with Explicit Geospatial Reasoning Abilities for Language-Goal Aerial Navigation](https://arxiv.org/abs/2504.09587) | 2025 | arXiv |
+| [GraphEQA: Using 3D Semantic Scene Graphs for Real-time Embodied Question Answering](https://arxiv.org/abs/2412.14480) | 2025 | CoRL |
+| [Mem4Nav: Boosting Vision-and-Language Navigation in Urban Environments with a Hierarchical Spatial-Cognition Long-Short Memory System](https://arxiv.org/abs/2506.19433) | 2025 | arXiv |
+| [MG-Nav: Dual-Scale Visual Navigation via Sparse Spatial Memory](https://arxiv.org/abs/2511.22609) | 2025 | arXiv |
+| [ObjectReact: Learning Object-Relative Control for Visual Navigation](https://arxiv.org/abs/2509.09594) | 2025 | CoRL |
+| [RoboOS: A Hierarchical Embodied Framework for Cross-Embodiment and Multi-Agent Collaboration](https://arxiv.org/abs/2505.03673) | 2025 | arXiv |
+| [RoboOS-NeXT: A Unified Memory-based Framework for Lifelong, Scalable, and Robust Multi-Robot Collaboration](https://arxiv.org/abs/2510.26536) | 2025 | arXiv |
+| [Controllable 3D Outdoor Scene Generation via Scene Graphs](https://openaccess.thecvf.com/content/ICCV2025/papers/Liu_Controllable_3D_Outdoor_Scene_Generation_via_Scene_Graphs_ICCV_2025_paper.pdf) | 2025 | ICCV |
+| [Spatial Understanding from Videos: Structured Prompts Meet Simulation Data](https://openreview.net/forum?id=SBYCu5uJJf) | 2025 | NeurIPS |
+| [Struct2D: A Perception-Guided Framework for Spatial Reasoning in Large Multimodal Models](https://arxiv.org/abs/2506.04220) | 2025 | NeurIPS |
+| [Embodied-RAG: General Non-parametric Embodied Memory for Retrieval and Generation](https://arxiv.org/abs/2409.18313) | 2024 | arXiv |
+| [BEVBert: Multimodal Map Pre-training for Language-guided Navigation](https://arxiv.org/abs/2212.04385) | 2023 | ICCV |
+| [4D Panoptic Scene Graph Generation](https://arxiv.org/abs/2405.10305) | 2023 | NeurIPS |
+| [Hydra: A Real-time Spatial Perception System for 3D Scene Graph Construction and Optimization](https://arxiv.org/abs/2201.13360) | 2022 | RSS |
+| [No RL, No Simulation: Learning to Navigate without Navigating](https://openreview.net/forum?id=8vXYx6d8Wc) | 2021 | NeurIPS |
+| [SCENEHGN: Hierarchical Graph Networks for 3D Indoor Scene Generation with Fine-Grained Geometry](https://ieeexplore.ieee.org/document/10018465) | 2021 | TPAMI |
+| [3D Dynamic Scene Graphs: Actionable Spatial Perception with Places, Objects, and Humans](https://arxiv.org/abs/2002.06289) | 2020 | RSS |
+| [GRAINS: Generative Recursive Autoencoders for INdoor Scenes](https://arxiv.org/abs/1807.09193) | 2019 | TOG |
 
 #### 1.3.2 Feature Fusion
 | Title | Year | Venue | Paper Link |
