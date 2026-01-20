@@ -300,8 +300,18 @@ We review and restructure the landscape of **Spatial Intelligence** through a un
 | [SCENEHGN: Hierarchical Graph Networks for 3D Indoor Scene Generation with Fine-Grained Geometry](https://ieeexplore.ieee.org/document/10018465) | 2021 | TPAMI |
 
 ### 3.2 Dynamic World Simulation
-| Title | Year | Venue | Paper Link |
-| :--- | :---: | :---: | :---: |
+| Title | Year | Venue |
+| --- | --- | --- |
+| [NeoVerse: Enhancing 4D World Model with in-the-wild Monocular Videos](https://arxiv.org/abs/2601.00393) | 2026 | arXiv |
+| [VerseCrafter: Dynamic Realistic Video World Model with 4D Geometric Control](https://arxiv.org/abs/2601.05138) | 2025 | arXiv |
+| [Spatia: Video Generation with Updatable Spatial Memory](https://arxiv.org/abs/2512.15716) | 2025 | arXiv |
+| [InfiniCube: Unbounded and Controllable Dynamic 3D Driving Scene Generation with World-Guided Video Models](https://arxiv.org/abs/2412.03934) | 2025 | ICCV |
+| [Memory Forcing: Spatio-Temporal Memory for Consistent Scene Generation on Minecraft](https://arxiv.org/abs/2510.03198) | 2025 | arXiv |
+| [Learning 3D Persistent Embodied World Models](https://arxiv.org/abs/2505.05495) | 2025 | NeurIPS |
+| [Video World Models with Long-term Spatial Memory](https://arxiv.org/abs/2506.05284) | 2025 | NeurIPS |
+| [DOME: Taming Diffusion Model into High-Fidelity Controllable Occupancy World Model](https://arxiv.org/abs/2410.10429) | 2024 | arXiv |
+| [OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving](https://arxiv.org/abs/2311.16038) | 2024 | ECCV |
+| [SSGVS: Semantic Scene Graph-to-Video Synthesis](https://openaccess.thecvf.com/content/CVPR2023W/MULA/html/Cong_SSGVS_Semantic_Scene_Graph-to-Video_Synthesis_CVPRW_2023_paper.html) | 2023 | CVPR |
 
 ---
 
