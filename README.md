@@ -123,8 +123,19 @@ We review and restructure the landscape of **Spatial Intelligence** through a un
 | [GRAINS: Generative Recursive Autoencoders for INdoor Scenes](https://arxiv.org/abs/1807.09193) | 2019 | TOG |
 
 #### 1.3.2 Feature Fusion
-| Title | Year | Venue | Paper Link |
-| :--- | :---: | :---: | :---: |
+| Title | Year | Venue |
+| --- | --- | --- |
+| [Agent Journey Beyond RGB: Hierarchical Semantic-Spatial Representation Enrichment for Vision-and-Language Navigation](https://arxiv.org/abs/2412.06465) | 2026 | AAAI |
+| [Scene Map-based Prompt Tuning for Navigation Instruction Generation](https://openaccess.thecvf.com/content/CVPR2025/papers/Fan_Scene_Map-based_Prompt_Tuning_for_Navigation_Instruction_Generation_CVPR_2025_paper.pdf) | 2025 | CVPR |
+| [MMGDreamer: Mixed-Modality Graph for Geometry-Controllable 3D Indoor Scene Generation](https://arxiv.org/abs/2502.05874) | 2025 | AAAI |
+| [Move to Understand a 3D Scene: Bridging Visual Grounding and Exploration for Efficient and Versatile Embodied Navigation](https://arxiv.org/abs/2507.04047) | 2025 | ICCV |
+| [Learning Bird’s Eye View scene graph and knowledge-inspired policy for embodied visual navigation](https://www.sciencedirect.com/science/article/abs/pii/S0950705125010044) | 2025 | KBS |
+| [External Knowledge Enhanced 3D Scene Generation from Sketch](https://arxiv.org/abs/2403.14121) | 2024 | ECCV |
+| [SG-Bot: Object Rearrangement via Coarse-to-Fine Robotic Imagination on Scene Graphs](https://ieeexplore.ieee.org/document/10610792) | 2024 | ICRA |
+| [3D Question Answering for City Scene Understanding](https://arxiv.org/abs/2407.17398) | 2024 | MM |
+| [ConceptGraphs: Open-Vocabulary 3D Scene Graphs for Perception and Planning](https://arxiv.org/abs/2309.16650) | 2024 | ICRA |
+| [Embodied Contrastive Learning with Geometric Consistency and Behavioral Awareness for Object Navigation](https://dl.acm.org/doi/10.1145/3664647.3681248) | 2024 | MM |
+| [Bird’s-Eye-View Scene Graph for Vision-Language Navigation](https://openaccess.thecvf.com/content/ICCV2023/html/Liu_Birds-Eye-View_Scene_Graph_for_Vision-Language_Navigation_ICCV_2023_paper.html) | 2023 | ICCV |
 
 ---
 
