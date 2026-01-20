@@ -271,16 +271,33 @@ We review and restructure the landscape of **Spatial Intelligence** through a un
 | [HOLODECK: Language Guided Generation of 3D Embodied AI Environments](https://arxiv.org/abs/2312.09067) | 2024 | CVPR |
 | [INSTRUCTSCENE: Instruction-Driven 3D Indoor Scene Synthesis with Semantic Graph Prior](https://arxiv.org/abs/2402.04717) | 2024 | ICLR |
 | [End-to-End Optimization of Scene Layout](https://openaccess.thecvf.com/content_CVPR_2020/html/Luo_End-to-End_Optimization_of_Scene_Layout_CVPR_2020_paper.html) | 2020 | CVPR |
-| [GRAINS: Generative Recursive Autoencoders for INdoor Scenes](https://arxiv.org/abs/1807.09193) | 2019 | TOG |
 | [Meta-Sim2: Unsupervised Learning of Scene Structure for Synthetic Data Generation](https://arxiv.org/abs/2008.09092) | 2020 | ECCV |
 | [Meta-Sim: Learning to Generate Synthetic Datasets](https://openaccess.thecvf.com/content_ICCV_2019/html/Kar_Meta-Sim_Learning_to_Generate_Synthetic_Datasets_ICCV_2019_paper.html) | 2019 | ICCV |
+| [GRAINS: Generative Recursive Autoencoders for INdoor Scenes](https://arxiv.org/abs/1807.09193) | 2019 | TOG |
 | [PlanIT: Planning and Instantiating Indoor Scenes with Relation Graph and Spatial Prior Networks](https://kwang-ether.github.io/pdf/planit.pdf) | 2019 | TOG |
-| [Adaptive Synthesis of Indoor Scenes via Activity-Associated Object Relation Graphs](https://hongbofu.people.ust.hk/doc/Adaptive_Synthesis_Indoor_Scenes_SA17.pdf) | 2017 | TOG |
 | [Language-Driven Synthesis of 3D Scenes from Scene Databases](https://dl.acm.org/doi/10.1145/3272127.3275035) | 2018 | TOG |
+| [Adaptive Synthesis of Indoor Scenes via Activity-Associated Object Relation Graphs](https://hongbofu.people.ust.hk/doc/Adaptive_Synthesis_Indoor_Scenes_SA17.pdf) | 2017 | TOG |
 
 #### 3.1.2 Map-to-Scene Generation
-| Title | Year | Venue | Paper Link |
-| :--- | :---: | :---: | :---: |
+| Title | Year | Venue |
+| --- | --- | --- |
+| [SPATIALGEN: Layout-guided 3D Indoor Scene Generation](https://arxiv.org/abs/2509.14981) | 2026 | 3DV |
+| [MMGDreamer: Mixed-Modality Graph for Geometry-Controllable 3D Indoor Scene Generation](https://arxiv.org/abs/2502.05874) | 2025 | AAAI |
+| [Generative Gaussian Splatting for Unbounded 3D City Generation](https://openaccess.thecvf.com/content/CVPR2025/papers/Xie_Generative_Gaussian_Splatting_for_Unbounded_3D_City_Generation_CVPR_2025_paper.pdf) | 2025 | CVPR |
+| [HiGS: Hierarchical Generative Scene Framework for Multi-Step Associative Semantic Spatial Composition](https://arxiv.org/abs/2510.27148) | 2025 | arXiv |
+| [LayoutAgent: A Vision-Language Agent Guided Compositional Diffusion for Spatial Layout Planning](https://arxiv.org/abs/2509.22720) | 2025 | arXiv |
+| [Planner3D: LLM-enhanced graph prior meets 3D indoor scene explicit regularization](https://arxiv.org/abs/2403.12848) | 2025 | TPAMI |
+| [Controllable 3D Outdoor Scene Generation via Scene Graphs](https://arxiv.org/abs/2503.07152) | 2025 | ICCV |
+| [Ctrl-Room: Controllable Text-to-3D Room Meshes Generation with Layout Constraints](https://arxiv.org/abs/2310.03602) | 2025 | 3DV |
+| [MAGICDRIVE: Street View Generation with Diverse 3D Geometry Control](https://proceedings.iclr.cc/paper_files/paper/2024/file/635351dc3d18116d1a44ca31592e2f9a-Paper-Conference.pdf) | 2024 | ICLR |
+| [External Knowledge Enhanced 3D Scene Generation from Sketch](https://arxiv.org/abs/2403.14121) | 2024 | ECCV |
+| [CityDreamer: Compositional Generative Model of Unbounded 3D Cities](https://openaccess.thecvf.com/content/CVPR2024/papers/Xie_CityDreamer_Compositional_Generative_Model_of_Unbounded_3D_Cities_CVPR_2024_paper.pdf) | 2024 | CVPR |
+| [GraphDreamer: Compositional 3D Scene Synthesis from Scene Graphs](https://openaccess.thecvf.com/content/CVPR2024/papers/Gao_GraphDreamer_Compositional_3D_Scene_Synthesis_from_Scene_Graphs_CVPR_2024_paper.pdf) | 2024 | CVPR |
+| [SceneDreamer: Unbounded 3D Scene Generation From 2D Image Collections](https://arxiv.org/abs/2302.01330) | 2023 | TPAMI |
+| [CC3D: Layout-Conditioned Generation of Compositional 3D Scenes](https://openaccess.thecvf.com/content/ICCV2023/papers/Bahmani_CC3D_Layout-Conditioned_Generation_of_Compositional_3D_Scenes_ICCV_2023_paper.pdf) | 2023 | ICCV |
+| [CommonScenes: Generating Commonsense 3D Indoor Scenes with Scene Graph Diffusion](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5fba70900a84a8fb755c48ba99420c95-Abstract-Conference.html) | 2023 | NeurIPS |
+| [Graph-to-3D: End-to-End Generation and Manipulation of 3D Scenes Using Scene Graphs](https://openaccess.thecvf.com/content/ICCV2021/papers/Dhamo_Graph-to-3D_End-to-End_Generation_and_Manipulation_of_3D_Scenes_Using_Scene_ICCV_2021_paper.pdf) | 2021 | ICCV |
+| [SCENEHGN: Hierarchical Graph Networks for 3D Indoor Scene Generation with Fine-Grained Geometry](https://ieeexplore.ieee.org/document/10018465) | 2021 | TPAMI |
 
 ### 3.2 Dynamic World Simulation
 | Title | Year | Venue | Paper Link |
