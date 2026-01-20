@@ -27,33 +27,31 @@ We review and restructure the landscape of **Spatial Intelligence** through a un
 ### 1.1 Metric Representation
 
 #### 1.1.1 2D Planar-based
-| Title | Year | Venue | Paper Link |
-| :--- | :---: | :---: | :---: |
+| Title | Year | Venue |
+| --- | --- | --- |
 
 #### 1.1.2 3D Geometric-based
-| Title | Year | Venue | Paper Link |
-| :--- | :---: | :---: | :---: |
+| Title | Year | Venue |
+| --- | --- | --- |
 
 #### 1.1.3 Symbolic Coordinate-based
-| Title | Year | Venue | Paper Link |
-| :--- | :---: | :---: | :---: |
+| Title | Year | Venue |
+| --- | --- | --- |
 
 ### 1.2 Relational Representation
-
-#### 1.2.1 Structured Graph-based
-| Title | Year | Venue | Paper Link |
-| --- | --- | --- | --- |
-| End-to-End Optimization of Scene Layout | 2020 | CVPR | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Luo_End-to-End_Optimization_of_Scene_Layout_CVPR_2020_paper.html) |
-| Adaptive Synthesis of Indoor Scenes via Activity-Associated Object Relation Graphs | 2017 | TOG | [Paper](https://hongbofu.people.ust.hk/doc/Adaptive_Synthesis_Indoor_Scenes_SA17.pdf) |
-| BrainyMP: Enhancing Motion Planning Using Graph Neural Network Inspired by Brain Spatial Relational Memory | 2025 | TITS | [Paper](https://ieeexplore.ieee.org/abstract/document/10919140) |
-| CommonScenes: Generating Commonsense 3D Indoor Scenes with Scene Graph Diffusion | 2023 | NeurIPS | [Paper](https://arxiv.org/abs/2305.16283) |
-| GC-VLN: Instruction as Graph Constraints for Training-free Vision-and-Language Navigation | 2025 | CoRL | [Paper](https://arxiv.org/abs/2509.10454) |
-| Graph-to-3D: End-to-End Generation and Manipulation of 3D Scenes Using Scene Graphs | 2021 | ICCV | [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Dhamo_Graph-to-3D_End-to-End_Generation_and_Manipulation_of_3D_Scenes_Using_Scene_ICCV_2021_paper.pdf) |
-| GTR: A Grafting-Then-Reassembling Framework for Dynamic Scene Graph Generation | 2023 | IJCAI | [Paper](https://www.ijcai.org/proceedings/2023/0131.pdf) |
-| HiGS: Hierarchical Generative Scene Framework for Multi-Step Associative Semantic Spatial Composition | 2025 | arXiv | [Paper](https://arxiv.org/abs/2510.27148) |
-| Hierarchical Semantic-Augmented Navigation: Optimal Transport and Graph-Driven Reasoning for Vision-Language Navigation | 2025 | NeurIPS | [Paper](https://openreview.net/attachment?id=ypVW5jvguX&name=pdf) |
-| Visuomotor Navigation for Embodied Robots With Spatial Memory and Semantic Reasoning Cognition | 2025 | TNNLS | [Paper](https://ieeexplore.ieee.org/document/10682097) |
-
+### 1.2.1 Structured Graph-based
+| Title | Year | Venue |
+| --- | --- | --- |
+| [End-to-End Optimization of Scene Layout](https://openaccess.thecvf.com/content_CVPR_2020/html/Luo_End-to-End_Optimization_of_Scene_Layout_CVPR_2020_paper.html) | 2020 | CVPR |
+| [Adaptive Synthesis of Indoor Scenes via Activity-Associated Object Relation Graphs](https://hongbofu.people.ust.hk/doc/Adaptive_Synthesis_Indoor_Scenes_SA17.pdf) | 2017 | TOG |
+| [BrainyMP: Enhancing Motion Planning Using Graph Neural Network Inspired by Brain Spatial Relational Memory](https://ieeexplore.ieee.org/abstract/document/10919140) | 2025 | TITS |
+| [CommonScenes: Generating Commonsense 3D Indoor Scenes with Scene Graph Diffusion](https://arxiv.org/abs/2305.16283) | 2023 | NeurIPS |
+| [GC-VLN: Instruction as Graph Constraints for Training-free Vision-and-Language Navigation](https://arxiv.org/abs/2509.10454) | 2025 | CoRL |
+| [Graph-to-3D: End-to-End Generation and Manipulation of 3D Scenes Using Scene Graphs](https://openaccess.thecvf.com/content/ICCV2021/papers/Dhamo_Graph-to-3D_End-to-End_Generation_and_Manipulation_of_3D_Scenes_Using_Scene_ICCV_2021_paper.pdf) | 2021 | ICCV |
+| [GTR: A Grafting-Then-Reassembling Framework for Dynamic Scene Graph Generation](https://www.ijcai.org/proceedings/2023/0131.pdf) | 2023 | IJCAI |
+| [HiGS: Hierarchical Generative Scene Framework for Multi-Step Associative Semantic Spatial Composition](https://arxiv.org/abs/2510.27148) | 2025 | arXiv |
+| [Hierarchical Semantic-Augmented Navigation: Optimal Transport and Graph-Driven Reasoning for Vision-Language Navigation](https://openreview.net/attachment?id=ypVW5jvguX&name=pdf) | 2025 | NeurIPS |
+| [Visuomotor Navigation for Embodied Robots With Spatial Memory and Semantic Reasoning Cognition](https://ieeexplore.ieee.org/document/10682097) | 2025 | TNNLS |
 
 #### 1.2.2 Serialized Graph-based
 | Title | Year | Venue | Paper Link |
