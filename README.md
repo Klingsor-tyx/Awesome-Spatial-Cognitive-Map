@@ -203,18 +203,47 @@ We review and restructure the landscape of **Spatial Intelligence** through a un
 | [Visual Language Maps for Robot Navigation](https://arxiv.org/abs/2210.05714) | 2023 | ICRA |
 
 #### 2.2.2 Persistent Spatial Memory
-| Title | Year | Venue | Paper Link |
-| :--- | :---: | :---: | :---: |
+| Title | Year | Venue |
+| --- | --- | --- |
+| [PanoNav: Mapless Zero-Shot Object Navigation with Panoramic Scene Parsing and Dynamic Memory](https://arxiv.org/abs/2511.06840) | 2026 | AAAI |
+| [3DLLM-Mem: Long-Term Spatial-Temporal Memory for Embodied 3D Large Language Model](https://arxiv.org/abs/2505.22657) | 2025 | arXiv |
+| [Embodied VideoAgent: Persistent Memory from Egocentric Videos and Embodied Sensors Enables Dynamic Scene Understanding](https://arxiv.org/abs/2501.00358) | 2025 | ICCV |
+| [LagMemo: Language 3D Gaussian Splatting Memory for Multi-modal Open-vocabulary Multi-goal Visual Navigation](https://arxiv.org/abs/2510.24118) | 2025 | arXiv |
+| [Meta-Memory: Retrieving and Integrating Semantic-Spatial Memories for Robot Spatial Reasoning](https://arxiv.org/abs/2509.20754) | 2025 | arXiv |
+| [MrSteve: Instruction-Following Agents in Minecraft with What-Where-When Memory](https://arxiv.org/abs/2411.06736) | 2025 | ICLR |
+| [ReMEmbR: Building and Reasoning Over Long-Horizon Spatio-Temporal Memory for Robot Navigation](https://arxiv.org/abs/2409.13682) | 2025 | ICRA |
+| [RoboMemory: A Brain-inspired Multi-memory Agentic Framework for Interactive Environmental Learning in Physical Embodied Systems](https://arxiv.org/abs/2508.01415) | 2025 | arXiv |
+| [RoboOS-NeXT: A Unified Memory-based Framework for Lifelong, Scalable, and Robust Multi-Robot Collaboration](https://arxiv.org/abs/2510.26536) | 2025 | arXiv |
+| [RoboOS: A Hierarchical Embodied Framework for Cross-Embodiment and Multi-Agent Collaboration](https://arxiv.org/abs/2505.03673) | 2025 | arXiv |
+| [Context-Aware Planning and Environment-Aware Memory for Instruction Following Embodied Agents](https://openaccess.thecvf.com/content/ICCV2023/html/Kim_Context-Aware_Planning_and_Environment-Aware_Memory_for_Instruction_Following_Embodied_Agents_ICCV_2023_paper.html) | 2023 | ICCV |
 
 ### 2.3 Map as Embedding
 
 #### 2.3.1 Structured State Propagation
-| Title | Year | Venue | Paper Link |
-| :--- | :---: | :---: | :---: |
+| Title | Year | Venue |
+| --- | --- | --- |
+| [BrainyMP: Enhancing Motion Planning Using Graph Neural Network Inspired by Brain Spatial Relational Memory](https://ieeexplore.ieee.org/document/10919140/) | 2025 | TITS |
+| [Hierarchical Semantic-Augmented Navigation: Optimal Transport and Graph-Driven Reasoning for Vision-Language Navigation](https://neurips.cc/virtual/2025/poster/115108) | 2025 | NeurIPS |
+| [Visuomotor Navigation for Embodied Robots With Spatial Memory and Semantic Reasoning Cognition](https://ieeexplore.ieee.org/document/10682097) | 2025 | TNNLS |
+| [ObjectReact: Learning Object-Relative Control for Visual Navigation](https://arxiv.org/abs/2509.09594) | 2025 | CoRL |
+| [SG-Bot: Object Rearrangement via Coarse-to-Fine Robotic Imagination on Scene Graphs](https://arxiv.org/abs/2309.12188) | 2024 | ICRA |
+| [Embodied Contrastive Learning with Geometric Consistency and Behavioral Awareness for Object Navigation](https://dl.acm.org/doi/10.1145/3664647.3681248) | 2024 | MM |
+| [No RL, No Simulation: Learning to Navigate without Navigating](https://openreview.net/forum?id=8vXYx6d8Wc) | 2021 | NeurIPS |
+| [Cognitive Mapping and Planning for Visual Navigation](https://openaccess.thecvf.com/content_cvpr_2017/papers/Gupta_Cognitive_Mapping_and_CVPR_2017_paper.pdf) | 2017 | CVPR |
 
 #### 2.3.2 Latent Feature Matching
-| Title | Year | Venue | Paper Link |
-| :--- | :---: | :---: | :---: |
+| Title | Year | Venue |
+| --- | --- | --- |
+| [History-Enhanced Two-Stage Transformer for Aerial Vision-and-Language Navigation](https://arxiv.org/abs/2512.14222) | 2026 | AAAI |
+| [MapNav: A Novel Memory Representation via Annotated Semantic Maps for Vision-and-Language Navigation](https://aclanthology.org/2025.acl-long.638/) | 2025 | ACL |
+| [Mem4Nav: Boosting Vision-and-Language Navigation in Urban Environments with a Hierarchical Spatial-Cognition Long-Short Memory System](https://arxiv.org/abs/2506.19433) | 2025 | arXiv |
+| [Learning Bird’s Eye View scene graph and knowledge-inspired policy for embodied visual navigation]([https://www.google.com/search?q=https://doi.org/10.1016/j.knosys.2024.113959](https://www.sciencedirect.com/science/article/abs/pii/S0950705125010044)) | 2025 | KBS |
+| [MemoNav: Working Memory Model for Visual Navigation](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_MemoNav_Working_Memory_Model_for_Visual_Navigation_CVPR_2024_paper.pdf) | 2024 | CVPR |
+| [BEVBert: Multimodal Map Pre-training for Language-guided Navigation](https://arxiv.org/abs/2212.04385) | 2023 | ICCV |
+| [Bird’s-Eye-View Scene Graph for Vision-Language Navigation](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_Birds-Eye-View_Scene_Graph_for_Vision-Language_Navigation_ICCV_2023_paper.pdf) | 2023 | ICCV |
+| [Learning Navigational Visual Representations with Semantic Map Supervision](https://openaccess.thecvf.com/content/ICCV2023/papers/Hong_Learning_Navigational_Visual_Representations_with_Semantic_Map_Supervision_ICCV_2023_paper.pdf) | 2023 | ICCV |
+| [GridMM: Grid Memory Map for Vision-and-Language Navigation](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_GridMM_Grid_Memory_Map_for_Vision-and-Language_Navigation_ICCV_2023_paper.pdf) | 2023 | ICCV |
+| [Cross-modal Map Learning for Vision and Language Navigation](https://openaccess.thecvf.com/content/CVPR2022/papers/Georgakis_Cross-Modal_Map_Learning_for_Vision_and_Language_Navigation_CVPR_2022_paper.pdf) | 2022 | CVPR |
 
 ---
 
