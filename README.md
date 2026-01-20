@@ -237,7 +237,7 @@ We review and restructure the landscape of **Spatial Intelligence** through a un
 | [History-Enhanced Two-Stage Transformer for Aerial Vision-and-Language Navigation](https://arxiv.org/abs/2512.14222) | 2026 | AAAI |
 | [MapNav: A Novel Memory Representation via Annotated Semantic Maps for Vision-and-Language Navigation](https://aclanthology.org/2025.acl-long.638/) | 2025 | ACL |
 | [Mem4Nav: Boosting Vision-and-Language Navigation in Urban Environments with a Hierarchical Spatial-Cognition Long-Short Memory System](https://arxiv.org/abs/2506.19433) | 2025 | arXiv |
-| [Learning Bird’s Eye View scene graph and knowledge-inspired policy for embodied visual navigation]([https://www.google.com/search?q=https://doi.org/10.1016/j.knosys.2024.113959](https://www.sciencedirect.com/science/article/abs/pii/S0950705125010044)) | 2025 | KBS |
+| [Learning Bird’s Eye View scene graph and knowledge-inspired policy for embodied visual navigation](https://www.sciencedirect.com/science/article/abs/pii/S0950705125010044) | 2025 | KBS |
 | [MemoNav: Working Memory Model for Visual Navigation](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_MemoNav_Working_Memory_Model_for_Visual_Navigation_CVPR_2024_paper.pdf) | 2024 | CVPR |
 | [BEVBert: Multimodal Map Pre-training for Language-guided Navigation](https://arxiv.org/abs/2212.04385) | 2023 | ICCV |
 | [Bird’s-Eye-View Scene Graph for Vision-Language Navigation](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_Birds-Eye-View_Scene_Graph_for_Vision-Language_Navigation_ICCV_2023_paper.pdf) | 2023 | ICCV |
