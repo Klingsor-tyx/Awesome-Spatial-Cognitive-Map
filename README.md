@@ -26,15 +26,15 @@ We review and restructure the landscape of **Spatial Intelligence** through a un
 
 ### 1.1 Metric Representation
 
-#### 1.1.1 2D Planar-based
+#### 1.1.1 2D Planar-based*
 | Title | Year | Venue |
 | --- | --- | --- |
 
-#### 1.1.2 3D Geometric-based
+#### 1.1.2 3D Geometric-based*
 | Title | Year | Venue |
 | --- | --- | --- |
 
-#### 1.1.3 Symbolic Coordinate-based
+#### 1.1.3 Symbolic Coordinate-based*
 | Title | Year | Venue |
 | --- | --- | --- |
 
@@ -320,25 +320,25 @@ We review and restructure the landscape of **Spatial Intelligence** through a un
 ### 4.1 Virtual Interaction
 
 #### 4.1.1 3D Question Answering
-| Title | Year | Venue | Paper Link |
-| :--- | :---: | :---: | :---: |
+| Title | Year | Venue |
+| --- | --- | --- |
 
-#### 4.1.2 Indoor Layout Design
-| Title | Year | Venue | Paper Link |
-| :--- | :---: | :---: | :---: |
+#### 4.1.2 Indoor Layout Design*
+| Title | Year | Venue |
+| --- | --- | --- |
 
-#### 4.1.3 Open-World Generation
-| Title | Year | Venue | Paper Link |
-| :--- | :---: | :---: | :---: |
+#### 4.1.3 Open-World Generation*
+| Title | Year | Venue |
+| --- | --- | --- |
 
 ### 4.2 Realistic Interaction
 
 #### 4.2.1 Embodied Navigation
-| Title | Year | Venue | Paper Link |
-| :--- | :---: | :---: | :---: |
+| Title | Year | Venue |
+| --- | --- | --- |
 
 #### 4.2.2 Embodied Manipulation
-| Title | Year | Venue | Paper Link |
-| :--- | :---: | :---: | :---: |
+| Title | Year | Venue |
+| --- | --- | --- |
 
 ---
