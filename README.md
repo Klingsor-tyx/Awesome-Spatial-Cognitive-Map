@@ -340,11 +340,11 @@ We review and restructure the landscape of **Spatial Intelligence** through a un
 | [Mind's Eye of LLMs: Visualization-of-Thought Elicits Spatial Reasoning in Large Language Models](https://proceedings.neurips.cc/paper_files/paper/2024/hash/a45296e83b19f656392e0130d9e53cb1-Abstract-Conference.html) | 2024 | NeurIPS |
 | [3D Question Answering for City Scene Understanding](https://arxiv.org/abs/2407.17398) | 2024 | MM |
 
-#### 4.1.2 Indoor Layout Design*
+#### 4.1.2 Indoor Layout Design
 | Title | Year | Venue |
 | --- | --- | --- |
 
-#### 4.1.3 Open-World Generation*
+#### 4.1.3 Open-Ended Generation
 | Title | Year | Venue |
 | --- | --- | --- |
 
