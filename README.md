@@ -345,7 +345,6 @@ We review and restructure the landscape of **Spatial Intelligence** through a un
 | --- | --- | --- |
 | [SPATIALGEN: Layout-guided 3D Indoor Scene Generation](https://arxiv.org/abs/2509.14981) | 2026 | 3DV |
 | [LayoutVLM: Differentiable Optimization of 3D Layout via Vision-Language Models](https://arxiv.org/abs/2412.02193) | 2025 | CVPR |
-| [Agentic 3D Scene Generation with Spatially Contextualized VLMs](https://arxiv.org/abs/2505.20129) | 2025 | arXiv |
 | [MMGDreamer: Mixed-Modality Graph for Geometry-Controllable 3D Indoor Scene Generation](https://arxiv.org/abs/2502.05874) | 2025 | AAAI |
 | [HiGS: Hierarchical Generative Scene Framework for Multi-Step Associative Semantic Spatial Composition](https://arxiv.org/abs/2510.27148) | 2025 | arXiv |
 | [LayoutAgent: A Vision-Language Agent Guided Compositional Diffusion for Spatial Layout Planning](https://arxiv.org/abs/2509.22720) | 2025 | arXiv |
@@ -371,6 +370,7 @@ We review and restructure the landscape of **Spatial Intelligence** through a un
 | --- | --- | --- |
 | [NeoVerse: Enhancing 4D World Model with in-the-wild Monocular Videos](https://arxiv.org/abs/2601.00393) | 2026 | arXiv |
 | [Generative Gaussian Splatting for Unbounded 3D City Generation](https://openaccess.thecvf.com/content/CVPR2025/papers/Xie_Generative_Gaussian_Splatting_for_Unbounded_3D_City_Generation_CVPR_2025_paper.pdf) | 2025 | CVPR |
+| [Agentic 3D Scene Generation with Spatially Contextualized VLMs](https://arxiv.org/abs/2505.20129) | 2025 | arXiv |
 | [VerseCrafter: Dynamic Realistic Video World Model with 4D Geometric Control](https://arxiv.org/abs/2601.05138) | 2025 | arXiv |
 | [Spatia: Video Generation with Updatable Spatial Memory](https://arxiv.org/abs/2512.15716) | 2025 | arXiv |
 | [InfiniCube: Unbounded and Controllable Dynamic 3D Driving Scene Generation with World-Guided Video Models](https://arxiv.org/abs/2412.03934) | 2025 | ICCV |
