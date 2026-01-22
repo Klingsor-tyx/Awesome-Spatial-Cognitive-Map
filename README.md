@@ -272,7 +272,6 @@ We review and restructure the landscape of **Spatial Intelligence** through a un
 | Title | Year | Venue |
 | --- | --- | --- |
 | [LayoutVLM: Differentiable Optimization of 3D Layout via Vision-Language Models](https://arxiv.org/abs/2412.02193) | 2025 | CVPR |
-| [Agentic 3D Scene Generation with Spatially Contextualized VLMs](https://arxiv.org/abs/2505.20129) | 2025 | arXiv |
 | [FOREST2SEQ: Revitalizing Order Prior for Sequential Indoor Scene Synthesis](https://arxiv.org/abs/2407.05388) | 2024 | ECCV |
 | [HOLODECK: Language Guided Generation of 3D Embodied AI Environments](https://arxiv.org/abs/2312.09067) | 2024 | CVPR |
 | [INSTRUCTSCENE: Instruction-Driven 3D Indoor Scene Synthesis with Semantic Graph Prior](https://arxiv.org/abs/2402.04717) | 2024 | ICLR |
@@ -290,6 +289,7 @@ We review and restructure the landscape of **Spatial Intelligence** through a un
 | [SPATIALGEN: Layout-guided 3D Indoor Scene Generation](https://arxiv.org/abs/2509.14981) | 2026 | 3DV |
 | [MMGDreamer: Mixed-Modality Graph for Geometry-Controllable 3D Indoor Scene Generation](https://arxiv.org/abs/2502.05874) | 2025 | AAAI |
 | [Generative Gaussian Splatting for Unbounded 3D City Generation](https://openaccess.thecvf.com/content/CVPR2025/papers/Xie_Generative_Gaussian_Splatting_for_Unbounded_3D_City_Generation_CVPR_2025_paper.pdf) | 2025 | CVPR |
+| [Agentic 3D Scene Generation with Spatially Contextualized VLMs](https://arxiv.org/abs/2505.20129) | 2025 | arXiv |
 | [HiGS: Hierarchical Generative Scene Framework for Multi-Step Associative Semantic Spatial Composition](https://arxiv.org/abs/2510.27148) | 2025 | arXiv |
 | [LayoutAgent: A Vision-Language Agent Guided Compositional Diffusion for Spatial Layout Planning](https://arxiv.org/abs/2509.22720) | 2025 | arXiv |
 | [Planner3D: LLM-enhanced graph prior meets 3D indoor scene explicit regularization](https://arxiv.org/abs/2403.12848) | 2025 | TPAMI |
