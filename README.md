@@ -75,7 +75,6 @@ We review and restructure the landscape of **Spatial Intelligence** through a un
 | Title | Year | Venue |
 | --- | --- | --- |
 | [PanoNav: Mapless Zero-Shot Object Navigation with Panoramic Scene Parsing and Dynamic Memory](https://arxiv.org/abs/2511.06840) | 2026 | AAAI |
-| [Scene Graph-Guided Proactive Replanning for Failure-Resilient Embodied Agents](https://arxiv.org/abs/2508.11286) | 2026 | AAMAS |
 | [RoboMemory: A Brain-inspired Multi-memory Agentic Framework for Interactive Environmental Learning in Physical Embodied Systems](https://arxiv.org/abs/2508.01415) | 2025 | arXiv |
 | [Hi-Dyna Graph: Hierarchical Dynamic Scene Graph for Robotic Autonomy in Human-Centric Environments](https://arxiv.org/abs/2506.00083) | 2025 | arXiv |
 | [MomaGraph: State-Aware Unified Scene Graphs with Vision-Language Model for Embodied Task Planning](https://arxiv.org/abs/2512.16909) | 2025 | arXiv |
@@ -150,7 +149,6 @@ We review and restructure the landscape of **Spatial Intelligence** through a un
 | Title | Year | Venue |
 | --- | --- | --- |
 | [LOG-Nav: Efficient Layout-Aware Object-Goal Navigation with Hierarchical Planning](https://arxiv.org/abs/2505.06131) | 2026 | AAAI |
-| [Scene Graph-Guided Proactive Replanning for Failure-Resilient Embodied Agents](https://arxiv.org/abs/2508.11286) | 2026 | AAMAS |
 | [Map2Thought: Explicit 3D Spatial Reasoning via Metric Cognitive Maps](https://arxiv.org/abs/2601.11442) | 2026 | arXiv |
 | [EfficientNav: Towards On-Device Object-Goal Navigation with Navigation Map Caching and Retrieval](https://arxiv.org/abs/2510.18546) | 2025 | NeurIPS |
 | [SpaceR: Reinforcing MLLMs in Video Spatial Reasoning](https://arxiv.org/abs/2504.01805) | 2025 | arXiv |
@@ -456,7 +454,6 @@ We review and restructure the landscape of **Spatial Intelligence** through a un
 #### 4.2.2 Embodied Manipulation
 | Title | Year | Venue |
 | --- | --- | --- |
-| [Scene Graph-Guided Proactive Replanning for Failure-Resilient Embodied Agents](https://arxiv.org/abs/2508.11286) | 2026 | AAMAS |
 | [ActiveVLA: Injecting Active Perception into Vision-Language-Action Models for Precise 3D Robotic Manipulation](https://arxiv.org/abs/2601.08325) | 2026 | arXiv |
 | [MomaGraph: State-Aware Unified Scene Graphs with Vision-Language Model for Embodied Task Planning](https://arxiv.org/abs/2512.16909) | 2025 | arXiv |
 | [Hi-Dyna Graph: Hierarchical Dynamic Scene Graph for Robotic Autonomy in Human-Centric Environments](https://arxiv.org/abs/2506.00083) | 2025 | arXiv |
