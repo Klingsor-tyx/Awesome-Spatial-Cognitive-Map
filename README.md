@@ -364,7 +364,7 @@ We review and restructure the landscape of **Spatial Intelligence** through a un
 | [Language-Driven Synthesis of 3D Scenes from Scene Databases](https://dl.acm.org/doi/10.1145/3272127.3275035) | 2018 | TOG |
 | [Adaptive Synthesis of Indoor Scenes via Activity-Associated Object Relation Graphs](https://hongbofu.people.ust.hk/doc/Adaptive_Synthesis_Indoor_Scenes_SA17.pdf) | 2017 | TOG |
 
-#### 4.1.3 Open-Ended Generation
+#### 4.1.3 Open-ended World Generation
 | Title | Year | Venue |
 | --- | --- | --- |
 | [NeoVerse: Enhancing 4D World Model with in-the-wild Monocular Videos](https://arxiv.org/abs/2601.00393) | 2026 | arXiv |
