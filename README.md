@@ -30,10 +30,34 @@ We review and restructure the landscape of **Spatial Intelligence** through a un
 ##### 2D Planar-based
 | Title | Year | Venue |
 | --- | --- | --- |
+| [History-Enhanced Two-Stage Transformer for Aerial Vision-and-Language Navigation](https://arxiv.org/abs/2512.14222) | 2026 | AAAI |
+| [What You See is What You Reach: Towards Spatial Navigation with High-Level Human Instructions](https://openreview.net/pdf?id=ow65qpDY3Q) | 2026 | AAAI |
+| [MapNav: A Novel Memory Representation via Annotated Semantic Maps for Vision-and-Language Navigation](https://aclanthology.org/2025.acl-long.638/) | 2025 | ACL |
+| [Ali-UI: Enhancing Complex Vision-Language Navigation with Alignment of Unified Map and Instruction Parsing](https://doi.org/10.1145/3746027.3755232) | 2025 | MM |
+| [OVL-MAP: An Online Visual Language Map Approach for Vision-and-Language Navigation in Continuous Environments](https://doi.org/10.1109/LRA.2025.3540577) | 2025 | RAL |
+| [SpaceR: Reinforcing MLLMs in Video Spatial Reasoning](https://arxiv.org/abs/2504.01805) | 2025 | arXiv |
+| [Human-like Navigation in a World Built for Humans](https://arxiv.org/abs/2509.21189) | 2025 | CoRL |
+| [Enhancing Embodied Object Detection with Spatial Feature Memory](https://openaccess.thecvf.com/content/WACV2025/papers/Chapman_Enhancing_Embodied_Object_Detection_with_Spatial_Feature_Memory_WACV_2025_paper.pdf) | 2025 | WACV |
+| [TP-MDDN: Task-Preferenced Multi-Demand-Driven Navigation with Autonomous Decision-Making](https://arxiv.org/abs/2511.17225) | 2025 | NeurIPS |
+| [Distilling LLM Prior to Flow Model for Generalizable Agent's Imagination in Object Goal Navigation](https://arxiv.org/abs/2508.09423) | 2025 | NeurIPS |
+| [Mind's Eye of LLMs: Visualization-of-Thought Elicits Spatial Reasoning in Large Language Models](https://proceedings.neurips.cc/paper_files/paper/2024/hash/a45296e83b19f656392e0130d9e53cb1-Abstract-Conference.html) | 2024 | NeurIPS |
+| [Explore until Confident: Efficient Exploration for Embodied Question Answering](https://arxiv.org/abs/2403.15941) | 2024 | arXiv |
+| [GridMM: Grid Memory Map for Vision-and-Language Navigation](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_GridMM_Grid_Memory_Map_for_Vision-and-Language_Navigation_ICCV_2023_paper.pdf) | 2023 | ICCV |
+| [Visual Language Maps for Robot Navigation](https://arxiv.org/abs/2210.05714) | 2023 | ICRA |
+| [Context-Aware Planning and Environment-Aware Memory for Instruction Following Embodied Agents](https://openaccess.thecvf.com/content/ICCV2023/html/Kim_Context-Aware_Planning_and_Environment-Aware_Memory_for_Instruction_Following_Embodied_Agents_ICCV_2023_paper.html) | 2023 | ICCV |
+| [Cross-modal Map Learning for Vision and Language Navigation](https://openaccess.thecvf.com/content/CVPR2022/papers/Georgakis_Cross-Modal_Map_Learning_for_Vision_and_Language_Navigation_CVPR_2022_paper.pdf) | 2022 | CVPR |
+| [Weakly-Supervised Multi-Granularity Map Learning for Vision-and-Language Navigation](https://papers.nips.cc/paper_files/paper/2022/hash/f959b05dd74ba8a735276c3df4ae8b71-Abstract-Conference.html) | 2022 | NeurIPS |
+| [Semantic MapNet: Building Allocentric Semantic Maps and Representations from Egocentric Views](https://arxiv.org/abs/2010.01191) | 2021 | AAAI |
+| [Cognitive Mapping and Planning for Visual Navigation](https://openaccess.thecvf.com/content_cvpr_2017/papers/Gupta_Cognitive_Mapping_and_CVPR_2017_paper.pdf) | 2017 | CVPR |
+
 
 ##### 3D Geometry-based
 | Title | Year | Venue |
 | --- | --- | --- |
+| [Learning 3D Persistent Embodied World Models](https://arxiv.org/abs/2505.05495) | 2025 | NeurIPS |
+| [BeliefMapNav: 3D Voxel-Based Belief Map for Zero-Shot Object Navigation](https://arxiv.org/abs/2506.06487) | 2025 | NeurIPS |
+| [OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving](https://arxiv.org/abs/2311.16038) | 2024 | ECCV |
+| [DOME: Taming Diffusion Model into High-Fidelity Controllable Occupancy World Model](https://arxiv.org/abs/2410.10429) | 2024 | arXiv |
 
 #### 1.1.2 Parametric Coordinate-based
 | Title | Year | Venue |
@@ -103,6 +127,7 @@ We review and restructure the landscape of **Spatial Intelligence** through a un
 #### 1.3.1 Hierarchical Architecture
 | Title | Year | Venue |
 | --- | --- | --- |
+| [Map2Thought: Explicit 3D Spatial Reasoning via Metric Cognitive Maps](https://arxiv.org/abs/2601.11442) | 2026 | arXiv |
 | [OmniNav: A Unified Framework for Prospective Exploration and Visual-Language Navigation](https://arxiv.org/abs/2509.25687) | 2026 | ICLR |
 | [SeqWalker: Sequential-Horizon Vision-and-Language Navigation with Hierarchical Planning](https://arxiv.org/abs/2601.04699) | 2026 | AAAI |
 | [Stairway to Success: An Online Floor-Aware Zero-Shot Object-Goal Navigation Framework via LLM-Driven Coarse-to-Fine Exploration](https://arxiv.org/abs/2505.23019) | 2026 | RAL |
@@ -255,6 +280,7 @@ We review and restructure the landscape of **Spatial Intelligence** through a un
 | [Learning Bird’s Eye View scene graph and knowledge-inspired policy for embodied visual navigation](https://www.sciencedirect.com/science/article/abs/pii/S0950705125010044) | 2025 | KBS |
 | [Move to Understand a 3D Scene: Bridging Visual Grounding and Exploration for Efficient and Versatile Embodied Navigation](https://arxiv.org/abs/2507.04047) | 2025 | ICCV |
 | [OVL-MAP: An Online Visual Language Map Approach for Vision-and-Language Navigation in Continuous Environments](https://doi.org/10.1109/LRA.2025.3540577) | 2025 | RAL |
+| [Distilling LLM Prior to Flow Model for Generalizable Agent's Imagination in Object Goal Navigation](https://arxiv.org/abs/2508.09423) | 2025 | NeurIPS |
 | [Scene-Driven Multimodal Knowledge Graph Construction for Embodied AI](https://ieeexplore.ieee.org/document/10531671/) | 2024 | TKDE |
 | [3D Question Answering for City Scene Understanding](https://arxiv.org/abs/2407.17398) | 2024 | MM |
 | [MemoNav: Working Memory Model for Visual Navigation](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_MemoNav_Working_Memory_Model_for_Visual_Navigation_CVPR_2024_paper.pdf) | 2024 | CVPR |
@@ -331,7 +357,7 @@ We review and restructure the landscape of **Spatial Intelligence** through a un
 
 ### 4.1 Virtual Interaction
 
-#### 4.1.1 3D Question Answering
+#### 4.1.1 Spatial Question Answering
 | Title | Year | Venue |
 | --- | --- | --- |
 | [Map2Thought: Explicit 3D Spatial Reasoning via Metric Cognitive Maps](https://arxiv.org/abs/2601.11442) | 2026 | arXiv |
@@ -415,6 +441,7 @@ We review and restructure the landscape of **Spatial Intelligence** through a un
 | [Dynam3D: Dynamic Layered 3D Tokens Empower VLM for Vision-and-Language Navigation](https://arxiv.org/abs/2505.11383) | 2025 | NeurIPS |
 | [EfficientNav: Towards On-Device Object-Goal Navigation with Navigation Map Caching and Retrieval](https://arxiv.org/abs/2510.18546) | 2025 | NeurIPS |
 | [TP-MDDN: Task-Preferenced Multi-Demand-Driven Navigation with Autonomous Decision-Making](https://arxiv.org/abs/2511.17225) | 2025 | NeurIPS |
+| [Distilling LLM Prior to Flow Model for Generalizable Agent's Imagination in Object Goal Navigation](https://arxiv.org/abs/2508.09423) | 2025 | NeurIPS |
 | [Embodied VSR: Dynamic Scene Graph-Guided Chain-of-Thought Reasoning for Visual Spatial Tasks](https://arxiv.org/abs/2503.11089) | 2025 | arXiv |
 | [CogNav: Cognitive Process Modeling for Object Goal Navigation with LLMs](https://arxiv.org/abs/2412.10439) | 2025 | ICCV |
 | [Scene Map-based Prompt Tuning for Navigation Instruction Generation](https://openaccess.thecvf.com/content/CVPR2025/papers/Fan_Scene_Map-based_Prompt_Tuning_for_Navigation_Instruction_Generation_CVPR_2025_paper.pdf) | 2025 | CVPR |
