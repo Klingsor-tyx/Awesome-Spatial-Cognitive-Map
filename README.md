@@ -32,6 +32,8 @@ We review and restructure the landscape of **Spatial Intelligence** through a un
 | --- | --- | --- |
 | [History-Enhanced Two-Stage Transformer for Aerial Vision-and-Language Navigation](https://arxiv.org/abs/2512.14222) | 2026 | AAAI |
 | [What You See is What You Reach: Towards Spatial Navigation with High-Level Human Instructions](https://openreview.net/pdf?id=ow65qpDY3Q) | 2026 | AAAI |
+| [3D-Mem: 3D Scene Memory for Embodied Exploration and Reasoning](https://arxiv.org/abs/2411.17735) | 2025 | CVPR |
+| [GPT4Scene: Understand 3D Scenes from Videos with Vision-Language Models](https://arxiv.org/abs/2501.01428) | 2025 | arXiv |
 | [MapNav: A Novel Memory Representation via Annotated Semantic Maps for Vision-and-Language Navigation](https://aclanthology.org/2025.acl-long.638/) | 2025 | ACL |
 | [Ali-UI: Enhancing Complex Vision-Language Navigation with Alignment of Unified Map and Instruction Parsing](https://doi.org/10.1145/3746027.3755232) | 2025 | MM |
 | [OVL-MAP: An Online Visual Language Map Approach for Vision-and-Language Navigation in Continuous Environments](https://doi.org/10.1109/LRA.2025.3540577) | 2025 | RAL |
@@ -45,16 +47,27 @@ We review and restructure the landscape of **Spatial Intelligence** through a un
 | [GridMM: Grid Memory Map for Vision-and-Language Navigation](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_GridMM_Grid_Memory_Map_for_Vision-and-Language_Navigation_ICCV_2023_paper.pdf) | 2023 | ICCV |
 | [Visual Language Maps for Robot Navigation](https://arxiv.org/abs/2210.05714) | 2023 | ICRA |
 | [Context-Aware Planning and Environment-Aware Memory for Instruction Following Embodied Agents](https://openaccess.thecvf.com/content/ICCV2023/html/Kim_Context-Aware_Planning_and_Environment-Aware_Memory_for_Instruction_Following_Embodied_Agents_ICCV_2023_paper.html) | 2023 | ICCV |
+| [Open-vocabulary Queryable Scene Representations for Real World Planning](https://arxiv.org/abs/2209.09874) | 2023 | ICRA |
 | [Cross-modal Map Learning for Vision and Language Navigation](https://openaccess.thecvf.com/content/CVPR2022/papers/Georgakis_Cross-Modal_Map_Learning_for_Vision_and_Language_Navigation_CVPR_2022_paper.pdf) | 2022 | CVPR |
 | [Weakly-Supervised Multi-Granularity Map Learning for Vision-and-Language Navigation](https://papers.nips.cc/paper_files/paper/2022/hash/f959b05dd74ba8a735276c3df4ae8b71-Abstract-Conference.html) | 2022 | NeurIPS |
 | [Semantic MapNet: Building Allocentric Semantic Maps and Representations from Egocentric Views](https://arxiv.org/abs/2010.01191) | 2021 | AAAI |
 | [Cognitive Mapping and Planning for Visual Navigation](https://openaccess.thecvf.com/content_cvpr_2017/papers/Gupta_Cognitive_Mapping_and_CVPR_2017_paper.pdf) | 2017 | CVPR |
 
-
 ##### 3D Geometry-based
 | Title | Year | Venue |
 | --- | --- | --- |
+| [ActiveVLA: Injecting Active Perception into Vision-Language-Action Models for Precise 3D Robotic Manipulation](https://arxiv.org/abs/2601.08325) | 2026 | arXiv |
+| [NeoVerse: Enhancing 4D World Model with in-the-wild Monocular Videos](https://arxiv.org/abs/2601.00393) | 2026 | arXiv |
+| [Dynam3D: Dynamic Layered 3D Tokens Empower VLM for Vision-and-Language Navigation](https://arxiv.org/abs/2505.11383) | 2025 | NeurIPS |
+| [VerseCrafter: Dynamic Realistic Video World Model with 4D Geometric Control](https://arxiv.org/abs/2601.05138) | 2025 | arXiv |
+| [Spatia: Video Generation with Updatable Spatial Memory](https://arxiv.org/abs/2512.15716) | 2025 | arXiv |
+| [InfiniCube: Unbounded and Controllable Dynamic 3D Driving Scene Generation with World-Guided Video Models](https://arxiv.org/abs/2412.03934) | 2025 | ICCV |
+| [Memory Forcing: Spatio-Temporal Memory for Consistent Scene Generation on Minecraft](https://arxiv.org/abs/2510.03198) | 2025 | arXiv |
+| [Video World Models with Long-term Spatial Memory](https://arxiv.org/abs/2506.05284) | 2025 | NeurIPS |
 | [Learning 3D Persistent Embodied World Models](https://arxiv.org/abs/2505.05495) | 2025 | NeurIPS |
+| [3D Reconstruction with Spatial Memory](https://arxiv.org/abs/2408.16061) | 2025 | 3DV |
+| [See&Trek: Training-Free Spatial Prompting for Multimodal Large Language Model](https://arxiv.org/abs/2509.16087) | 2025 | NeurIPS |
+| [3DLLM-Mem: Long-Term Spatial-Temporal Memory for Embodied 3D Large Language Model](https://arxiv.org/abs/2505.22657) | 2025 | arXiv |
 | [BeliefMapNav: 3D Voxel-Based Belief Map for Zero-Shot Object Navigation](https://arxiv.org/abs/2506.06487) | 2025 | NeurIPS |
 | [OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving](https://arxiv.org/abs/2311.16038) | 2024 | ECCV |
 | [DOME: Taming Diffusion Model into High-Fidelity Controllable Occupancy World Model](https://arxiv.org/abs/2410.10429) | 2024 | arXiv |
