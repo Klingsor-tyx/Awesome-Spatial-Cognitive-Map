@@ -26,17 +26,25 @@ We review and restructure the landscape of **Spatial Intelligence** through a un
 
 ### 1.1 Metric Representation
 
-#### 1.1.1 2D Planar-based*
+#### 1.1.1 Explicit Geometry-based
+##### 2D Planar-based
 | Title | Year | Venue |
 | --- | --- | --- |
 
-#### 1.1.2 3D Geometric-based*
+##### 3D Geometry-based
 | Title | Year | Venue |
 | --- | --- | --- |
 
-#### 1.1.3 Symbolic Coordinate-based*
+#### 1.1.2 Parametric Coordinate-based
 | Title | Year | Venue |
 | --- | --- | --- |
+| [Perspective-Aware Reasoning in Vision-Language Models via Mental Imagery Simulation](https://openaccess.thecvf.com/content/ICCV2025/papers/Lee_Perspective-Aware_Reasoning_in_Vision-Language_Models_via_Mental_Imagery_Simulation_ICCV_2025_paper.pdf) | 2025 | ICCV |
+| [Meta-Memory: Retrieving and Integrating Semantic-Spatial Memories for Robot Spatial Reasoning](https://arxiv.org/abs/2509.20754) | 2025 | arXiv |
+| [EfficientNav: Towards On-Device Object-Goal Navigation with Navigation Map Caching and Retrieval](https://arxiv.org/abs/2510.18546) | 2025 | NeurIPS |
+| [Spatial Reasoning with Vision-Language Models in Ego-Centric Multi-View Scenes](https://arxiv.org/abs/2509.06266) | 2025 | arXiv |
+| [MrSteve: Instruction-Following Agents in Minecraft with What-Where-When Memory](https://arxiv.org/abs/2411.06736) | 2025 | ICLR |
+| [ReMEmbR: Building and Reasoning Over Long-Horizon Spatio-Temporal Memory for Robot Navigation](https://arxiv.org/abs/2409.13682) | 2025 | ICRA |
+| [Embodied VideoAgent: Persistent Memory from Egocentric Videos and Embodied Sensors Enables Dynamic Scene Understanding](https://arxiv.org/abs/2501.00358) | 2025 | ICCV |
 
 ### 1.2 Relational Representation
 
