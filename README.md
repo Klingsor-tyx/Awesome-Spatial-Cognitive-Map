@@ -76,6 +76,7 @@ We review and restructure the landscape of **Spatial Intelligence** through a un
 #### 1.1.2 Parametric Coordinate-based
 | Title | Year | Venue |
 | --- | --- | --- |
+| [Video2Layout: Recall and Reconstruct Metric-Grounded Cognitive Map for Spatial Reasoning](https://arxiv.org/abs/2511.16160) | 2025 | arXiv |
 | [Perspective-Aware Reasoning in Vision-Language Models via Mental Imagery Simulation](https://openaccess.thecvf.com/content/ICCV2025/papers/Lee_Perspective-Aware_Reasoning_in_Vision-Language_Models_via_Mental_Imagery_Simulation_ICCV_2025_paper.pdf) | 2025 | ICCV |
 | [Meta-Memory: Retrieving and Integrating Semantic-Spatial Memories for Robot Spatial Reasoning](https://arxiv.org/abs/2509.20754) | 2025 | arXiv |
 | [EfficientNav: Towards On-Device Object-Goal Navigation with Navigation Map Caching and Retrieval](https://arxiv.org/abs/2510.18546) | 2025 | NeurIPS |
@@ -239,6 +240,7 @@ We review and restructure the landscape of **Spatial Intelligence** through a un
 | --- | --- | --- |
 | [LOG-Nav: Efficient Layout-Aware Object-Goal Navigation with Hierarchical Planning](https://arxiv.org/abs/2505.06131) | 2026 | AAAI |
 | [Map2Thought: Explicit 3D Spatial Reasoning via Metric Cognitive Maps](https://arxiv.org/abs/2601.11442) | 2026 | arXiv |
+| [Video2Layout: Recall and Reconstruct Metric-Grounded Cognitive Map for Spatial Reasoning](https://arxiv.org/abs/2511.16160) | 2025 | arXiv |
 | [EfficientNav: Towards On-Device Object-Goal Navigation with Navigation Map Caching and Retrieval](https://arxiv.org/abs/2510.18546) | 2025 | NeurIPS |
 | [SpaceR: Reinforcing MLLMs in Video Spatial Reasoning](https://arxiv.org/abs/2504.01805) | 2025 | arXiv |
 | [MomaGraph: State-Aware Unified Scene Graphs with Vision-Language Model for Embodied Task Planning](https://arxiv.org/abs/2512.16909) | 2025 | arXiv |
@@ -376,6 +378,7 @@ We review and restructure the landscape of **Spatial Intelligence** through a un
 | Title | Year | Venue |
 | --- | --- | --- |
 | [Map2Thought: Explicit 3D Spatial Reasoning via Metric Cognitive Maps](https://arxiv.org/abs/2601.11442) | 2026 | arXiv |
+| [Video2Layout: Recall and Reconstruct Metric-Grounded Cognitive Map for Spatial Reasoning](https://arxiv.org/abs/2511.16160) | 2025 | arXiv |
 | [Think3D: Thinking with Space for Spatial Reasoning](https://arxiv.org/abs/2601.13029) | 2026 | arXiv |
 | [Perspective-Aware Reasoning in Vision-Language Models via Mental Imagery Simulation](https://openaccess.thecvf.com/content/ICCV2025/papers/Lee_Perspective-Aware_Reasoning_in_Vision-Language_Models_via_Mental_Imagery_Simulation_ICCV_2025_paper.pdf) | 2025 | ICCV |
 | [CLiViS: Unleashing Cognitive Map through Linguistic-Visual Synergy for Embodied Visual Reasoning](https://arxiv.org/abs/2506.17629) | 2025 | arXiv |
