@@ -33,6 +33,7 @@ We review and restructure the landscape of **Spatial Intelligence** through a un
 | --- | --- | --- |
 | [History-Enhanced Two-Stage Transformer for Aerial Vision-and-Language Navigation](https://arxiv.org/abs/2512.14222) | 2026 | AAAI |
 | [What You See is What You Reach: Towards Spatial Navigation with High-Level Human Instructions](https://openreview.net/pdf?id=ow65qpDY3Q) | 2026 | AAAI |
+| [One Map to Find Them All: Real-time Open-Vocabulary Mapping for Zero-shot Multi-Object Navigation](https://arxiv.org/abs/2409.11764) | 2025 | ICRA |
 | [3D-Mem: 3D Scene Memory for Embodied Exploration and Reasoning](https://arxiv.org/abs/2411.17735) | 2025 | CVPR |
 | [GPT4Scene: Understand 3D Scenes from Videos with Vision-Language Models](https://arxiv.org/abs/2501.01428) | 2025 | arXiv |
 | [MapNav: A Novel Memory Representation via Annotated Semantic Maps for Vision-and-Language Navigation](https://aclanthology.org/2025.acl-long.638/) | 2025 | ACL |
@@ -57,6 +58,7 @@ We review and restructure the landscape of **Spatial Intelligence** through a un
 ##### 3D Geometry-based
 | Title | Year | Venue |
 | --- | --- | --- |
+| [CogniMap3D: Cognitive 3D Mapping and Rapid Retrieval](https://arxiv.org/abs/2601.08175) | 2026 | ICLR |
 | [ActiveVLA: Injecting Active Perception into Vision-Language-Action Models for Precise 3D Robotic Manipulation](https://arxiv.org/abs/2601.08325) | 2026 | arXiv |
 | [NeoVerse: Enhancing 4D World Model with in-the-wild Monocular Videos](https://arxiv.org/abs/2601.00393) | 2026 | arXiv |
 | [Dynam3D: Dynamic Layered 3D Tokens Empower VLM for Vision-and-Language Navigation](https://arxiv.org/abs/2505.11383) | 2025 | NeurIPS |
@@ -76,6 +78,7 @@ We review and restructure the landscape of **Spatial Intelligence** through a un
 #### 1.1.2 Parametric Coordinate-based
 | Title | Year | Venue |
 | --- | --- | --- |
+| [Thinking with Blueprints: Assisting Vision-Language Models in Spatial Reasoning via Structured Object Representation](https://arxiv.org/abs/2601.01984) | 2026 | arXiv |
 | [Video2Layout: Recall and Reconstruct Metric-Grounded Cognitive Map for Spatial Reasoning](https://arxiv.org/abs/2511.16160) | 2025 | arXiv |
 | [Perspective-Aware Reasoning in Vision-Language Models via Mental Imagery Simulation](https://openaccess.thecvf.com/content/ICCV2025/papers/Lee_Perspective-Aware_Reasoning_in_Vision-Language_Models_via_Mental_Imagery_Simulation_ICCV_2025_paper.pdf) | 2025 | ICCV |
 | [Meta-Memory: Retrieving and Integrating Semantic-Spatial Memories for Robot Spatial Reasoning](https://arxiv.org/abs/2509.20754) | 2025 | arXiv |
@@ -90,6 +93,7 @@ We review and restructure the landscape of **Spatial Intelligence** through a un
 #### 1.2.1 Structured Graph-based
 | Title | Year | Venue |
 | --- | --- | --- |
+| [Integrated Exploration and Sequential Manipulation on Scene Graph with LLM-based Situated Replanning](https://arxiv.org/abs/2602.04419) | 2026 | ICRA |
 | [VPN: Visual Prompt Navigation](https://arxiv.org/abs/2508.01766) | 2026 | AAAI |
 | [RAG-3DSG: Enhancing 3D Scene Graphs with Re-Shot Guided Retrieval-Augmented Generation](https://arxiv.org/abs/2601.10168) | 2026 | arXiv |
 | [BrainyMP: Enhancing Motion Planning Using Graph Neural Network Inspired by Brain Spatial Relational Memory](https://ieeexplore.ieee.org/abstract/document/10919140) | 2025 | TITS |
@@ -238,6 +242,7 @@ We review and restructure the landscape of **Spatial Intelligence** through a un
 #### 2.2.1 Textual Prompting
 | Title | Year | Venue |
 | --- | --- | --- |
+| [Thinking with Blueprints: Assisting Vision-Language Models in Spatial Reasoning via Structured Object Representation](https://arxiv.org/abs/2601.01984) | 2026 | arXiv |
 | [LOG-Nav: Efficient Layout-Aware Object-Goal Navigation with Hierarchical Planning](https://arxiv.org/abs/2505.06131) | 2026 | AAAI |
 | [Map2Thought: Explicit 3D Spatial Reasoning via Metric Cognitive Maps](https://arxiv.org/abs/2601.11442) | 2026 | arXiv |
 | [Video2Layout: Recall and Reconstruct Metric-Grounded Cognitive Map for Spatial Reasoning](https://arxiv.org/abs/2511.16160) | 2025 | arXiv |
@@ -286,6 +291,7 @@ We review and restructure the landscape of **Spatial Intelligence** through a un
 #### 2.3.1 Real-time State Snapshot
 | Title | Year | Venue |
 | --- | --- | --- |
+| [Integrated Exploration and Sequential Manipulation on Scene Graph with LLM-based Situated Replanning](https://arxiv.org/abs/2602.04419) | 2026 | ICRA |
 | [What You See is What You Reach: Towards Spatial Navigation with High-Level Human Instructions](https://openreview.net/pdf?id=ow65qpDY3Q) | 2026 | AAAI |
 | [CAUSALNAV: A Long-term Embodied Navigation System for Autonomous Mobile Robots in Dynamic Outdoor Scenarios](https://arxiv.org/abs/2601.01872) | 2026 | RAL |
 | [BeliefMapNav: 3D Voxel-Based Belief Map for Zero-Shot Object Navigation](https://arxiv.org/abs/2506.06487) | 2025 | NeurIPS |
@@ -377,6 +383,7 @@ We review and restructure the landscape of **Spatial Intelligence** through a un
 #### 4.1.1 Spatial Question Answering
 | Title | Year | Venue |
 | --- | --- | --- |
+| [Thinking with Blueprints: Assisting Vision-Language Models in Spatial Reasoning via Structured Object Representation](https://arxiv.org/abs/2601.01984) | 2026 | arXiv |
 | [Map2Thought: Explicit 3D Spatial Reasoning via Metric Cognitive Maps](https://arxiv.org/abs/2601.11442) | 2026 | arXiv |
 | [Video2Layout: Recall and Reconstruct Metric-Grounded Cognitive Map for Spatial Reasoning](https://arxiv.org/abs/2511.16160) | 2025 | arXiv |
 | [Think3D: Thinking with Space for Spatial Reasoning](https://arxiv.org/abs/2601.13029) | 2026 | arXiv |
@@ -507,6 +514,7 @@ We review and restructure the landscape of **Spatial Intelligence** through a un
 #### 4.2.2 Embodied Manipulation
 | Title | Year | Venue |
 | --- | --- | --- |
+| [Integrated Exploration and Sequential Manipulation on Scene Graph with LLM-based Situated Replanning](https://arxiv.org/abs/2602.04419) | 2026 | ICRA |
 | [ActiveVLA: Injecting Active Perception into Vision-Language-Action Models for Precise 3D Robotic Manipulation](https://arxiv.org/abs/2601.08325) | 2026 | arXiv |
 | [MomaGraph: State-Aware Unified Scene Graphs with Vision-Language Model for Embodied Task Planning](https://arxiv.org/abs/2512.16909) | 2025 | arXiv |
 | [Hi-Dyna Graph: Hierarchical Dynamic Scene Graph for Robotic Autonomy in Human-Centric Environments](https://arxiv.org/abs/2506.00083) | 2025 | arXiv |
