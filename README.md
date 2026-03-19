@@ -408,6 +408,7 @@ We review and restructure the landscape of **Spatial Intelligence** through a un
 | [LayoutAgent: A Vision-Language Agent Guided Compositional Diffusion for Spatial Layout Planning](https://arxiv.org/abs/2509.22720) | 2025 | arXiv |
 | [Planner3D: LLM-enhanced graph prior meets 3D indoor scene explicit regularization](https://arxiv.org/abs/2403.12848) | 2025 | TPAMI |
 | [Ctrl-Room: Controllable Text-to-3D Room Meshes Generation with Layout Constraints](https://arxiv.org/abs/2310.03602) | 2025 | 3DV |
+| [Learning 3D Persistent Embodied World Models](https://arxiv.org/abs/2505.05495) | 2025 | NeurIPS |
 | [FOREST2SEQ: Revitalizing Order Prior for Sequential Indoor Scene Synthesis](https://arxiv.org/abs/2407.05388) | 2024 | ECCV |
 | [HOLODECK: Language Guided Generation of 3D Embodied AI Environments](https://arxiv.org/abs/2312.09067) | 2024 | CVPR |
 | [INSTRUCTSCENE: Instruction-Driven 3D Indoor Scene Synthesis with Semantic Graph Prior](https://arxiv.org/abs/2402.04717) | 2024 | ICLR |
@@ -434,7 +435,6 @@ We review and restructure the landscape of **Spatial Intelligence** through a un
 | [InfiniCube: Unbounded and Controllable Dynamic 3D Driving Scene Generation with World-Guided Video Models](https://arxiv.org/abs/2412.03934) | 2025 | ICCV |
 | [Memory Forcing: Spatio-Temporal Memory for Consistent Scene Generation on Minecraft](https://arxiv.org/abs/2510.03198) | 2025 | arXiv |
 | [Controllable 3D Outdoor Scene Generation via Scene Graphs](https://arxiv.org/abs/2503.07152) | 2025 | ICCV |
-| [Learning 3D Persistent Embodied World Models](https://arxiv.org/abs/2505.05495) | 2025 | NeurIPS |
 | [Video World Models with Long-term Spatial Memory](https://arxiv.org/abs/2506.05284) | 2025 | NeurIPS |
 | [MAGICDRIVE: Street View Generation with Diverse 3D Geometry Control](https://proceedings.iclr.cc/paper_files/paper/2024/file/635351dc3d18116d1a44ca31592e2f9a-Paper-Conference.pdf) | 2024 | ICLR |
 | [CityDreamer: Compositional Generative Model of Unbounded 3D Cities](https://openaccess.thecvf.com/content/CVPR2024/papers/Xie_CityDreamer_Compositional_Generative_Model_of_Unbounded_3D_Cities_CVPR_2024_paper.pdf) | 2024 | CVPR |
