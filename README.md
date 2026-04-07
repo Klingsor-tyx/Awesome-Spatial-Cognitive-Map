@@ -18,8 +18,8 @@ We review and restructure the landscape of **Spatial Intelligence** through a un
   - [3.1 Static Scene Synthesis](#31-static-scene-synthesis)
   - [3.2 Dynamic World Simulation](#32-dynamic-world-simulation)
 - [4. Application Domains](#4-application-domains)
-  - [4.1 Virtual Interaction](#41-virtual-interaction)
-  - [4.2 Realistic Interaction](#42-realistic-interaction)
+  - [4.1 Open-Loop Spatial Cognition](#41-open-loop-spatial-cognition)
+  - [4.2 Closed-Loop Spatial Interaction](#42-closed-loop-spatial-interaction)
 
 ---
 
@@ -378,7 +378,7 @@ We review and restructure the landscape of **Spatial Intelligence** through a un
 
 ## 4. Application Domains
 
-### 4.1 Virtual Interaction
+### 4.1 Open-Loop Spatial Cognition
 
 #### 4.1.1 Spatial Question Answering
 | Title | Year | Venue |
@@ -443,7 +443,7 @@ We review and restructure the landscape of **Spatial Intelligence** through a un
 | [SSGVS: Semantic Scene Graph-to-Video Synthesis](https://openaccess.thecvf.com/content/CVPR2023W/MULA/html/Cong_SSGVS_Semantic_Scene_Graph-to-Video_Synthesis_CVPRW_2023_paper.html) | 2023 | CVPR |
 | [SceneDreamer: Unbounded 3D Scene Generation From 2D Image Collections](https://arxiv.org/abs/2302.01330) | 2023 | TPAMI |
 
-### 4.2 Realistic Interaction
+### 4.2 Closed-Loop Spatial Interaction
 
 #### 4.2.1 Embodied Navigation
 | Title | Year | Venue |
