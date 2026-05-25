@@ -1,5 +1,5 @@
 # Awesome-Spatial-Cognitive-Map
-A curated list of papers analyzed in the survey: **A Survey on Spatial Intelligence: A Cognitive Map Perspective**
+A curated list of papers analyzed in the survey: **Spatial Intelligence from a Cognitive Map Perspective: A Survey**
 
 We review and restructure the landscape of **Spatial Intelligence** through a unified perspective centered on the **Cognitive Map**.
 
