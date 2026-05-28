@@ -3,6 +3,9 @@ A curated list of papers analyzed in the survey: **Spatial Intelligence from a C
 
 We review and restructure the landscape of **Spatial Intelligence** through a unified perspective centered on the **Cognitive Map**.
 
+[![Project Page](https://img.shields.io/badge/Project-Homepage-35bdb2)](https://spatial-cognitive-map.github.io/survey/)
+[![Paper](https://img.shields.io/badge/Paper-PDF-147d78)](https://doi.org/10.20944/preprints202605.1782.v1)
+
 ## 📖 Table of Contents
 
 - [1. Perception: Construction of Cognitive Maps](#1-perception-construction-of-cognitive-maps)
