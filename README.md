@@ -1,10 +1,66 @@
-# Awesome-Spatial-Cognitive-Map
-A curated list of papers analyzed in the survey: **Spatial Intelligence from a Cognitive Map Perspective: A Survey**
+# **Spatial Intelligence from a Cognitive Map Perspective: A Survey**
 
-We review and restructure the landscape of **Spatial Intelligence** through a unified perspective centered on the **Cognitive Map**.
+<div align="center">
 
-[![Project Page](https://img.shields.io/badge/Project-Homepage-35bdb2)](https://klingsor-tyx.github.io/spatial-cognitive-map/)
-[![Paper](https://img.shields.io/badge/Paper-PDF-147d78)](https://doi.org/10.20944/preprints202605.1782.v1)
+  <strong>Yuxuan Tian</strong><sup>*1,2</sup>,
+  <strong>Yuheng Ji</strong><sup>*†1,2</sup>,
+  <strong>Xiaolong Zheng</strong><sup>*✉1,2</sup>,
+  <strong>Ziheng Qin</strong><sup>1,2</sup>,
+  <strong>Yipu Wang</strong><sup>1,3</sup>,
+  <strong>Xinyi Zheng</strong><sup>4</sup>,
+  <br>
+  <strong>Yuyang Liu</strong><sup>1,2</sup>,
+  <strong>Shuanghao Bai</strong><sup>5</sup>,
+  <strong>Zhe Li</strong><sup>6</sup>,
+  <strong>Liang Wang</strong><sup>1,2</sup>,
+  <strong>Daniel Dajun Zeng</strong><sup>1,2</sup>
+
+  <br><br>
+
+  <sup>1</sup>State Key Laboratory of Multimodal Artificial Intelligence Systems, Institute of Automation, Chinese Academy of Sciences  
+  <sup>2</sup>School of Artificial Intelligence, University of Chinese Academy of Sciences  
+  <sup>3</sup>School of Advanced Interdisciplinary Sciences, University of Chinese Academy of Sciences  
+  <sup>4</sup>Beihang University  
+  <sup>5</sup>Xi’an Jiaotong University  
+  <sup>6</sup>Nanyang Technological University  
+
+  <br>
+
+  \* Equal Contribution &nbsp;&nbsp; † Project Leader &nbsp;&nbsp; ✉ Corresponding Author
+
+  <br><br>
+
+  🌐 <a href="https://klingsor-tyx.github.io/spatial-cognitive-map/">Project Page</a>
+  &nbsp;&nbsp; | &nbsp;&nbsp;
+  📄 <a href="https://github.com/Klingsor-tyx/Awesome-Spatial-Cognitive-Map/blob/main/survey.pdf">Paper PDF</a>
+  &nbsp;&nbsp; | &nbsp;&nbsp;
+  ⭐ <a href="https://github.com/Klingsor-tyx/Awesome-Spatial-Cognitive-Map">Awesome List</a>
+
+</div>
+
+<br>
+
+## **📚 Overview**
+
+<p align="center">
+  <img src="./assets/spatial.png" width="85%">
+</p>
+
+<h6 align="center">
+Overview of spatial intelligence from a cognitive map perspective.
+</h6>
+
+Spatial intelligence requires agents to form and utilize internal representations of the physical world for perception, reasoning, and generation. Recent advances in foundation models, embodied agents, and 3D representation learning have greatly expanded spatial capabilities, but existing studies are still distributed across heterogeneous tasks and model paradigms.
+
+This survey revisits **Spatial Intelligence** from the perspective of **Cognitive Maps**, treating cognitive maps as the representational blueprint that connects spatial perception, reasoning, and generation. Under this view, diverse research directions can be understood through a shared question: **how an internal spatial representation is constructed, maintained, reasoned over, and realized**.
+
+We organize the literature into three cognitive-map-centric processes:
+
+- **Perception: Construction of Cognitive Maps** — how agents build internal spatial representations from local, partial, and multimodal observations.
+- **Reasoning: Inference with Cognitive Maps** — how cognitive maps are used as embeddings, prompts, or APIs to support spatial inference and decision-making.
+- **Generation: Realization of Cognitive Maps** — how internal maps are externalized into 3D scenes and dynamic world simulations.
+
+This repository provides a curated list of papers analyzed in the survey, following the taxonomy proposed in **Spatial Intelligence from a Cognitive Map Perspective: A Survey**.
 
 ## 📖 Table of Contents
 
