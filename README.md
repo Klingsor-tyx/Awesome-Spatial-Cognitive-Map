@@ -15,7 +15,7 @@
   <strong>Zhe Li</strong><sup>5</sup>,
   <strong>Liang Wang</strong><sup>1,2</sup>,
   <strong>Daniel Dajun Zeng</strong><sup>1,2</sup>
-  <br>
+  <br><br>
   <sup>1</sup>CASIA  
   <sup>2</sup>UCAS  
   <sup>3</sup>BUAA
@@ -23,7 +23,7 @@
   <sup>5</sup>NTU
   <br>
   * Equal Contribution &nbsp;&nbsp; † Project Leader &nbsp;&nbsp; ✉ Corresponding Author
-  <br>
+  <br><br>
   
   🌐 <a href="https://klingsor-tyx.github.io/spatial-cognitive-map/">Project Page</a>
   &nbsp;&nbsp; | &nbsp;&nbsp;
@@ -38,7 +38,7 @@
 ## **📚 Overview**
 
 <p align="center">
-  <img src="./assets/spatial.png" width="85%">
+  <img src="./assets/spatial.png" width="80%">
 </p>
 
 <h6 align="center">
