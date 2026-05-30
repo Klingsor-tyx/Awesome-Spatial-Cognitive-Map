@@ -32,7 +32,6 @@
   ⭐ <a href="https://github.com/Klingsor-tyx/Awesome-Spatial-Cognitive-Map">Awesome List</a>
 
 </div>
-
 <br>
 
 ## **📚 Overview**
