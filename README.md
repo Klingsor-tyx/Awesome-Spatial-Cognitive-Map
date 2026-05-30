@@ -45,8 +45,6 @@
 Overview of spatial intelligence from a cognitive map perspective.
 </h6>
 
-Spatial intelligence requires agents to form and utilize internal representations of the physical world for perception, reasoning, and generation. Recent advances in foundation models, embodied agents, and 3D representation learning have greatly expanded spatial capabilities, but existing studies are still distributed across heterogeneous tasks and model paradigms.
-
 This survey revisits **Spatial Intelligence** from the perspective of **Cognitive Maps**, treating cognitive maps as the representational blueprint that connects spatial perception, reasoning, and generation. Under this view, diverse research directions can be understood through a shared question: **how an internal spatial representation is constructed, maintained, reasoned over, and realized**.
 
 We organize the literature into three cognitive-map-centric processes:
