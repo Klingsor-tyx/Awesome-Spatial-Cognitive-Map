@@ -1,4 +1,4 @@
-# **Spatial Intelligence from a Cognitive Map Perspective: A Survey**
+# **Spatial Intelligence from a Cognitive Map Perspective: <br>A Survey**
 
 <div align="center">
 
@@ -15,7 +15,7 @@
   <strong>Liang Wang</strong><sup>1,2</sup>,
   <strong>Daniel Dajun Zeng</strong><sup>1,2</sup>
 
-  <br><br>
+  <br>
 
   <sup>1</sup>State Key Laboratory of Multimodal Artificial Intelligence Systems, Institute of Automation, Chinese Academy of Sciences  
   <sup>2</sup>School of Artificial Intelligence, University of Chinese Academy of Sciences  
@@ -28,7 +28,7 @@
 
   \* Equal Contribution &nbsp;&nbsp; † Project Leader &nbsp;&nbsp; ✉ Corresponding Author
 
-  <br><br>
+  <br>
 
   🌐 <a href="https://klingsor-tyx.github.io/spatial-cognitive-map/">Project Page</a>
   &nbsp;&nbsp; | &nbsp;&nbsp;
