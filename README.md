@@ -1,35 +1,30 @@
-# **Spatial Intelligence from a Cognitive Map Perspective: <br>A Survey**
+<h1 align="center">
+  <strong>Spatial Intelligence from a Cognitive Map Perspective:<br>A Survey</strong>
+</h1>
 
 <div align="center">
-
-  <strong>Yuxuan Tian</strong><sup>*1,2</sup>,
+  
+  <strong>Yuxuan Tian</strong><sup>* 1,2</sup>,
   <strong>Yuheng Ji</strong><sup>*†1,2</sup>,
   <strong>Xiaolong Zheng</strong><sup>*✉1,2</sup>,
   <strong>Ziheng Qin</strong><sup>1,2</sup>,
-  <strong>Yipu Wang</strong><sup>1,3</sup>,
-  <strong>Xinyi Zheng</strong><sup>4</sup>,
+  <strong>Yipu Wang</strong><sup>1,2</sup>,
+  <strong>Xinyi Zheng</strong><sup>3</sup>,
   <br>
   <strong>Yuyang Liu</strong><sup>1,2</sup>,
-  <strong>Shuanghao Bai</strong><sup>5</sup>,
-  <strong>Zhe Li</strong><sup>6</sup>,
+  <strong>Shuanghao Bai</strong><sup>4</sup>,
+  <strong>Zhe Li</strong><sup>5</sup>,
   <strong>Liang Wang</strong><sup>1,2</sup>,
   <strong>Daniel Dajun Zeng</strong><sup>1,2</sup>
-
   <br>
-
-  <sup>1</sup>State Key Laboratory of Multimodal Artificial Intelligence Systems, Institute of Automation, Chinese Academy of Sciences  
-  <sup>2</sup>School of Artificial Intelligence, University of Chinese Academy of Sciences  
-  <sup>3</sup>School of Advanced Interdisciplinary Sciences, University of Chinese Academy of Sciences  
-  <sup>4</sup>Beihang University  
-  <sup>5</sup>Xi’an Jiaotong University  
-  <sup>6</sup>Nanyang Technological University  
-
+  <sup>1</sup>CASIA  
+  <sup>2</sup>UCAS  
+  <sup>3</sup>BUAA
+  <sup>4</sup>XJTU
+  <sup>5</sup>NTU
   <br>
-
   \* Equal Contribution &nbsp;&nbsp; † Project Leader &nbsp;&nbsp; ✉ Corresponding Author
-
   <br>
-
   🌐 <a href="https://klingsor-tyx.github.io/spatial-cognitive-map/">Project Page</a>
   &nbsp;&nbsp; | &nbsp;&nbsp;
   📄 <a href="https://github.com/Klingsor-tyx/Awesome-Spatial-Cognitive-Map/blob/main/survey.pdf">Paper PDF</a>
