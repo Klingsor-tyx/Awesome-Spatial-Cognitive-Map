@@ -3,7 +3,6 @@
 </h1>
 
 <div align="center">
-  
   <strong>Yuxuan Tian</strong><sup>* 1,2</sup>,
   <strong>Yuheng Ji</strong><sup>*†1,2</sup>,
   <strong>Xiaolong Zheng</strong><sup>*✉1,2</sup>,
@@ -23,8 +22,9 @@
   <sup>4</sup>XJTU
   <sup>5</sup>NTU
   <br>
-  \* Equal Contribution &nbsp;&nbsp; † Project Leader &nbsp;&nbsp; ✉ Corresponding Author
+  * Equal Contribution &nbsp;&nbsp; † Project Leader &nbsp;&nbsp; ✉ Corresponding Author
   <br>
+  
   🌐 <a href="https://klingsor-tyx.github.io/spatial-cognitive-map/">Project Page</a>
   &nbsp;&nbsp; | &nbsp;&nbsp;
   📄 <a href="https://github.com/Klingsor-tyx/Awesome-Spatial-Cognitive-Map/blob/main/survey.pdf">Paper PDF</a>
