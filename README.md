@@ -589,7 +589,7 @@ If you find this survey or repository useful for your research, please consider 
   title   = {Spatial Intelligence from a Cognitive Map Perspective: A Survey},
   author  = {Tian, Yuxuan and Ji, Yuheng and Zheng, Xiaolong and Qin, Ziheng and Wang, Yipu and Zheng, Xinyi and Liu, Yuyang and Bai, Shuanghao and Li, Zhe and Wang, Liang and Zeng, Daniel Dajun},
   year    = {2026},
-  journal = {Preprints},
+  publisher={Preprints},
   doi     = {10.20944/preprints202605.1782.v1},
   url     = {https://doi.org/10.20944/preprints202605.1782.v1}
 }
