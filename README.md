@@ -579,3 +579,17 @@ This repository provides a curated list of papers analyzed in the survey, follow
 | [SayPlan: Grounding Large Language Models using 3D Scene Graphs for Scalable Robot Task Planning](https://arxiv.org/abs/2307.06135) | 2023 | CoRL |
 
 ---
+
+## 📌 Citation
+
+If you find this survey or repository useful for your research, please consider citing:
+
+```bibtex
+@article{tian2026spatial,
+  title   = {Spatial Intelligence from a Cognitive Map Perspective: A Survey},
+  author  = {Tian, Yuxuan and Ji, Yuheng and Zheng, Xiaolong and Qin, Ziheng and Wang, Yipu and Zheng, Xinyi and Liu, Yuyang and Bai, Shuanghao and Li, Zhe and Wang, Liang and Zeng, Daniel Dajun},
+  year    = {2026},
+  journal = {Preprints},
+  doi     = {10.20944/preprints202605.1782.v1},
+  url     = {https://doi.org/10.20944/preprints202605.1782.v1}
+}
